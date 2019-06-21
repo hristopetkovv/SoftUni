@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\bin\Debug\netcoreapp2.1\DemoDatabase.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\bin\Debug\netcoreapp2.1\DemoDatabase.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\bin\Debug\netcoreapp2.1\DemoDatabase.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\bin\Debug\netcoreapp2.1\DemoDatabase.dll
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\bin\Debug\netcoreapp2.1\DemoDatabase.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.dll
+E:\Documents\Softuni\C#Fund\C#OOP\UnitTesting\DemoDatabase\obj\Debug\netcoreapp2.1\DemoDatabase.pdb

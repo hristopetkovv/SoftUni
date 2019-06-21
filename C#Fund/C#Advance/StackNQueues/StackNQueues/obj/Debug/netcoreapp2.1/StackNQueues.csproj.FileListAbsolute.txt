@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\bin\Debug\netcoreapp2.1\StackNQueues.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\bin\Debug\netcoreapp2.1\StackNQueues.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\bin\Debug\netcoreapp2.1\StackNQueues.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\bin\Debug\netcoreapp2.1\StackNQueues.dll
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\bin\Debug\netcoreapp2.1\StackNQueues.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.dll
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\StackNQueues\obj\Debug\netcoreapp2.1\StackNQueues.pdb

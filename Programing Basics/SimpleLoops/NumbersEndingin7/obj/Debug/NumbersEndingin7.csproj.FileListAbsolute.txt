@@ -1,0 +1,6 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\bin\Debug\NumbersEndingin7.exe.config
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\bin\Debug\NumbersEndingin7.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\bin\Debug\NumbersEndingin7.pdb
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\obj\Debug\NumbersEndingin7.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\obj\Debug\NumbersEndingin7.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\NumbersEndingin7\obj\Debug\NumbersEndingin7.pdb

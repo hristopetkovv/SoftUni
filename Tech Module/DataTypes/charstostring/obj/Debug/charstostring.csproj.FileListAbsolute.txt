@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\bin\Debug\charstostring.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\bin\Debug\charstostring.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\bin\Debug\charstostring.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\obj\Debug\charstostring.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\obj\Debug\charstostring.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\charstostring\obj\Debug\charstostring.pdb

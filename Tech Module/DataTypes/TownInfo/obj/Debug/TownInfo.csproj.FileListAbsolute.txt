@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\bin\Debug\TownInfo.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\bin\Debug\TownInfo.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\bin\Debug\TownInfo.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\obj\Debug\TownInfo.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\obj\Debug\TownInfo.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\TownInfo\obj\Debug\TownInfo.pdb

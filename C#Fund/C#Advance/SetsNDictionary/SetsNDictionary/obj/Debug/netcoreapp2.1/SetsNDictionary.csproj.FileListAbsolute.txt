@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\bin\Debug\netcoreapp2.1\SetsNDictionary.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\bin\Debug\netcoreapp2.1\SetsNDictionary.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\bin\Debug\netcoreapp2.1\SetsNDictionary.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\bin\Debug\netcoreapp2.1\SetsNDictionary.dll
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\bin\Debug\netcoreapp2.1\SetsNDictionary.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.dll
+E:\Documents\Softuni\C#Fund\C#Advance\SetsNDictionary\SetsNDictionary\obj\Debug\netcoreapp2.1\SetsNDictionary.pdb

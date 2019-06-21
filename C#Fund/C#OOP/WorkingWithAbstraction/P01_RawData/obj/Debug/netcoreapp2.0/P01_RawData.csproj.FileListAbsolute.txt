@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

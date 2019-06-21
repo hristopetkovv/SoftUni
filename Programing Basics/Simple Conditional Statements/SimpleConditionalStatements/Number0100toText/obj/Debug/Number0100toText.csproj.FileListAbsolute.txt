@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\bin\Debug\Number0100toText.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\bin\Debug\Number0100toText.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\bin\Debug\Number0100toText.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\obj\Debug\Number0100toText.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\obj\Debug\Number0100toText.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\obj\Debug\Number0100toText.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Number0100toText\obj\Debug\Number0100toText.pdb

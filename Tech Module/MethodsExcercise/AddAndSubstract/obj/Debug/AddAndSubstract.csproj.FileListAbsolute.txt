@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\bin\Debug\AddAndSubstract.exe.config
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\bin\Debug\AddAndSubstract.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\bin\Debug\AddAndSubstract.pdb
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\obj\Debug\AddAndSubstract.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\obj\Debug\AddAndSubstract.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\AddAndSubstract\obj\Debug\AddAndSubstract.pdb

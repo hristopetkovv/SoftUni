@@ -1,0 +1,6 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.exe.config
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\bin\Debug\MaxNumber.pdb
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\obj\Debug\MaxNumber.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\obj\Debug\MaxNumber.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\MaxNumber\obj\Debug\MaxNumber.pdb

@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\bin\Debug\netcoreapp2.1\Citizen.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\bin\Debug\netcoreapp2.1\Citizen.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\bin\Debug\netcoreapp2.1\Citizen.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\bin\Debug\netcoreapp2.1\Citizen.dll
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\bin\Debug\netcoreapp2.1\Citizen.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.dll
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\Citizen\obj\Debug\netcoreapp2.1\Citizen.pdb

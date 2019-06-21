@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\bin\Debug\Numbersfrom1to100.exe.config
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\bin\Debug\Numbersfrom1to100.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\bin\Debug\Numbersfrom1to100.pdb
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\obj\Debug\Numbersfrom1to100.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\obj\Debug\Numbersfrom1to100.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\obj\Debug\Numbersfrom1to100.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\Numbersfrom1to100\obj\Debug\Numbersfrom1to100.pdb

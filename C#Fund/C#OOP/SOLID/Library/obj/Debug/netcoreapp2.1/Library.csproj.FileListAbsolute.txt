@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\bin\Debug\netcoreapp2.1\Library.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\bin\Debug\netcoreapp2.1\Library.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\bin\Debug\netcoreapp2.1\Library.dll
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\bin\Debug\netcoreapp2.1\Library.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.dll
+E:\Documents\Softuni\C#Fund\C#OOP\SOLID\Library\obj\Debug\netcoreapp2.1\Library.pdb

@@ -1,0 +1,7 @@
+D:\Softuni\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+D:\Softuni\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+D:\Softuni\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+D:\Softuni\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache
+D:\Softuni\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csproj.CoreCompileInputs.cache
+D:\Softuni\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+D:\Softuni\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb

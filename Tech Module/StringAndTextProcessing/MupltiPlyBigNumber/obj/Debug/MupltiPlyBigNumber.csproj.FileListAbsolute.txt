@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\bin\Debug\MupltiPlyBigNumber.exe.config
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\bin\Debug\MupltiPlyBigNumber.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\bin\Debug\MupltiPlyBigNumber.pdb
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\obj\Debug\MupltiPlyBigNumber.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\obj\Debug\MupltiPlyBigNumber.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\obj\Debug\MupltiPlyBigNumber.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\MupltiPlyBigNumber\obj\Debug\MupltiPlyBigNumber.pdb

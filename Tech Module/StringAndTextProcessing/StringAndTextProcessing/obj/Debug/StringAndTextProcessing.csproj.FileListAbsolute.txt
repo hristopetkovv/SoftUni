@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.exe.config
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\StringAndTextProcessing.pdb
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\StringAndTextProcessing.pdb

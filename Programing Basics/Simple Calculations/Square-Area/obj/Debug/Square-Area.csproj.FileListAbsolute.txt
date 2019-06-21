@@ -1,0 +1,7 @@
+D:\Softuni\Square-Area\bin\Debug\Square-Area.exe.config
+D:\Softuni\Square-Area\bin\Debug\Square-Area.exe
+D:\Softuni\Square-Area\bin\Debug\Square-Area.pdb
+D:\Softuni\Square-Area\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+D:\Softuni\Square-Area\obj\Debug\Square-Area.csproj.CoreCompileInputs.cache
+D:\Softuni\Square-Area\obj\Debug\Square-Area.exe
+D:\Softuni\Square-Area\obj\Debug\Square-Area.pdb

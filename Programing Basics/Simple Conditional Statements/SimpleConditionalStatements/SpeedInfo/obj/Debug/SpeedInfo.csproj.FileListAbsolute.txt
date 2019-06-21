@@ -1,0 +1,6 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\bin\Debug\SpeedInfo.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\obj\Debug\SpeedInfo.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\obj\Debug\SpeedInfo.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SpeedInfo\obj\Debug\SpeedInfo.pdb

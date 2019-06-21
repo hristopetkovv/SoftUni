@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\bin\Debug\Cards6.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\bin\Debug\Cards6.exe
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\bin\Debug\Cards6.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\obj\Debug\Cards6.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\obj\Debug\Cards6.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\obj\Debug\Cards6.exe
+F:\Dokuments\Softuni\Tech Module\Lists\Cards6\obj\Debug\Cards6.pdb

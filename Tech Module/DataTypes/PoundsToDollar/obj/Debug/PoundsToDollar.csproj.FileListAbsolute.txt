@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\bin\Debug\PoundsToDollar.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\bin\Debug\PoundsToDollar.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\bin\Debug\PoundsToDollar.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\obj\Debug\PoundsToDollar.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\obj\Debug\PoundsToDollar.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\PoundsToDollar\obj\Debug\PoundsToDollar.pdb

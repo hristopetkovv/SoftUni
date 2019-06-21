@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\bin\Debug\Convert.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\bin\Debug\Convert.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\bin\Debug\Convert.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\obj\Debug\Convert.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\Convert\obj\Debug\Convert.pdb

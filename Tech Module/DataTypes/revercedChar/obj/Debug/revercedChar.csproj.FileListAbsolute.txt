@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\bin\Debug\revercedChar.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\bin\Debug\revercedChar.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\bin\Debug\revercedChar.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\obj\Debug\revercedChar.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\obj\Debug\revercedChar.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\revercedChar\obj\Debug\revercedChar.pdb

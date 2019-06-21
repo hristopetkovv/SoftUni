@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\bin\Debug\netcoreapp2.1\P03.Mankind.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\bin\Debug\netcoreapp2.1\P03.Mankind.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\bin\Debug\netcoreapp2.1\P03.Mankind.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\bin\Debug\netcoreapp2.1\P03.Mankind.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\bin\Debug\netcoreapp2.1\P03.Mankind.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P03.Mankind\obj\Debug\netcoreapp2.1\P03.Mankind.pdb

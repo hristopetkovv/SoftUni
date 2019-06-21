@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\bin\Debug\PartyProfitExam1.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\bin\Debug\PartyProfitExam1.exe
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\bin\Debug\PartyProfitExam1.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\obj\Debug\PartyProfitExam1.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\obj\Debug\PartyProfitExam1.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\obj\Debug\PartyProfitExam1.exe
+F:\Dokuments\Softuni\Tech Module\Lists\PartyProfitExam1\obj\Debug\PartyProfitExam1.pdb

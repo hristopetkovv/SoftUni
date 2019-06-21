@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\bin\Debug\LegendaryFarming3.exe.config
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\bin\Debug\LegendaryFarming3.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\bin\Debug\LegendaryFarming3.pdb
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\obj\Debug\LegendaryFarming3.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\obj\Debug\LegendaryFarming3.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\obj\Debug\LegendaryFarming3.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\LegendaryFarming3\obj\Debug\LegendaryFarming3.pdb

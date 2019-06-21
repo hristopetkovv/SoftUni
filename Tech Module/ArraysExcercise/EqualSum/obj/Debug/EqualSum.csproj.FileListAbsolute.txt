@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\bin\Debug\EqualSum.exe.config
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\bin\Debug\EqualSum.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\bin\Debug\EqualSum.pdb
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\obj\Debug\EqualSum.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\obj\Debug\EqualSum.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\obj\Debug\EqualSum.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\EqualSum\obj\Debug\EqualSum.pdb

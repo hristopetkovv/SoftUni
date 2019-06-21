@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\bin\Debug\ListOperations4.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\bin\Debug\ListOperations4.exe
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\bin\Debug\ListOperations4.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\obj\Debug\ListOperations4.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\obj\Debug\ListOperations4.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\obj\Debug\ListOperations4.exe
+F:\Dokuments\Softuni\Tech Module\Lists\ListOperations4\obj\Debug\ListOperations4.pdb

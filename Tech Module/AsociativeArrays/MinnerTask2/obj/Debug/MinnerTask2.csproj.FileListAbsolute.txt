@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\bin\Debug\MinnerTask2.exe.config
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\bin\Debug\MinnerTask2.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\bin\Debug\MinnerTask2.pdb
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\obj\Debug\MinnerTask2.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\obj\Debug\MinnerTask2.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\MinnerTask2\obj\Debug\MinnerTask2.pdb

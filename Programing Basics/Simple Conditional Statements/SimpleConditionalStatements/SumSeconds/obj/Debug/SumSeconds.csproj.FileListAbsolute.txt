@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\bin\Debug\SumSeconds.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SumSeconds\obj\Debug\SumSeconds.pdb

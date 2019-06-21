@@ -1,0 +1,11 @@
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\i4kowe\Desktop\New folder\New folder\Telecom\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

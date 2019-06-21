@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\bin\Debug\netcoreapp2.1\P06.Animal.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\bin\Debug\netcoreapp2.1\P06.Animal.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\bin\Debug\netcoreapp2.1\P06.Animal.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\bin\Debug\netcoreapp2.1\P06.Animal.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\bin\Debug\netcoreapp2.1\P06.Animal.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P06.Animal\obj\Debug\netcoreapp2.1\P06.Animal.pdb

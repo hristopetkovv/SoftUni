@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\bin\Debug\SimpleConditionalStatements.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\bin\Debug\SimpleConditionalStatements.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\bin\Debug\SimpleConditionalStatements.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\obj\Debug\SimpleConditionalStatements.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\obj\Debug\SimpleConditionalStatements.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\obj\Debug\SimpleConditionalStatements.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\SimpleConditionalStatements\obj\Debug\SimpleConditionalStatements.pdb

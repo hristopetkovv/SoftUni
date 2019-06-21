@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache

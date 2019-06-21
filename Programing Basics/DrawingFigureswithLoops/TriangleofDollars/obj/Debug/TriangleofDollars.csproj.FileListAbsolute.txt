@@ -1,0 +1,6 @@
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\TriangleofDollars.exe.config
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\TriangleofDollars.exe
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\bin\Debug\TriangleofDollars.pdb
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\TriangleofDollars.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\TriangleofDollars.exe
+E:\Dokuments\Softuni\Programing Basics\DrawingFigureswithLoops\TriangleofDollars\obj\Debug\TriangleofDollars.pdb

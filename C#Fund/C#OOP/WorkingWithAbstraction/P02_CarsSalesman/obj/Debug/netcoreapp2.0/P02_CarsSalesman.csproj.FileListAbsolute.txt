@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+E:\Documents\Softuni\C#Fund\C#OOP\WorkingWithAbstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb

@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\bin\Debug\netcoreapp2.1\P02.BookShop.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\bin\Debug\netcoreapp2.1\P02.BookShop.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\bin\Debug\netcoreapp2.1\P02.BookShop.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\bin\Debug\netcoreapp2.1\P02.BookShop.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\bin\Debug\netcoreapp2.1\P02.BookShop.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Inheritance\P02.BookShop\obj\Debug\netcoreapp2.1\P02.BookShop.pdb

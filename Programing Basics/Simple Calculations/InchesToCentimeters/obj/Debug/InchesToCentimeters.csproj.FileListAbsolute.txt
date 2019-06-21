@@ -1,0 +1,7 @@
+D:\Softuni\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+D:\Softuni\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+D:\Softuni\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+D:\Softuni\InchesToCentimeters\obj\Debug\InchesToCentimeters.csprojResolveAssemblyReference.cache
+D:\Softuni\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+D:\Softuni\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+D:\Softuni\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

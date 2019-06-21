@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\bin\Debug\netcoreapp2.1\MeTubeAssociative.deps.json
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\bin\Debug\netcoreapp2.1\MeTubeAssociative.runtimeconfig.json
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\bin\Debug\netcoreapp2.1\MeTubeAssociative.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\bin\Debug\netcoreapp2.1\MeTubeAssociative.dll
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\bin\Debug\netcoreapp2.1\MeTubeAssociative.pdb
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.AssemblyInfo.cs
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.dll
+C:\Users\Freeware Sys\Desktop\ExamPreparation\MeTubeAssociative\MeTubeAssociative\obj\Debug\netcoreapp2.1\MeTubeAssociative.pdb

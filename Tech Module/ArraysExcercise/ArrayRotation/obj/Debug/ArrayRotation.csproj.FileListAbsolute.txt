@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\bin\Debug\ArrayRotation.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\bin\Debug\ArrayRotation.pdb
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\obj\Debug\ArrayRotation.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\obj\Debug\ArrayRotation.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArrayRotation\obj\Debug\ArrayRotation.pdb

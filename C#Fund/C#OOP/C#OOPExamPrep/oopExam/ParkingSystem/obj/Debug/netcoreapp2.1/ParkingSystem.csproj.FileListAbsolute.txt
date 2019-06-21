@@ -1,0 +1,11 @@
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.deps.json
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.json
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.runtimeconfig.dev.json
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csprojAssemblyReference.cache
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.AssemblyInfo.cs
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.dll
+C:\Users\i4kowe\Desktop\oopExam\ParkingSystem\obj\Debug\netcoreapp2.1\ParkingSystem.pdb

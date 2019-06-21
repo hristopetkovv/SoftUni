@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\bin\Debug\CountChars.exe.config
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\bin\Debug\CountChars.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\bin\Debug\CountChars.pdb
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\obj\Debug\CountChars.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\obj\Debug\CountChars.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\obj\Debug\CountChars.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\CountChars\obj\Debug\CountChars.pdb

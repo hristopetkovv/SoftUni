@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+F:\Dokuments\Softuni\Tech Module\Lists\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

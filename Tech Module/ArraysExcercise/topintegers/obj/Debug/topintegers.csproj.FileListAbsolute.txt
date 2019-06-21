@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\bin\Debug\topintegers.exe.config
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\bin\Debug\topintegers.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\bin\Debug\topintegers.pdb
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\obj\Debug\topintegers.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\obj\Debug\topintegers.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\obj\Debug\topintegers.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\topintegers\obj\Debug\topintegers.pdb

@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\obj\Debug\OddEvenSum.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\obj\Debug\OddEvenSum.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\bin\Debug\OddEvenSum.exe.config
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\bin\Debug\OddEvenSum.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\bin\Debug\OddEvenSum.pdb
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\obj\Debug\OddEvenSum.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\OddEvenSum\obj\Debug\OddEvenSum.pdb

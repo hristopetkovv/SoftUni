@@ -1,0 +1,6 @@
+D:\Softuni\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+D:\Softuni\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+D:\Softuni\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+D:\Softuni\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+D:\Softuni\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+D:\Softuni\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\bin\Debug\HouseParty3.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\bin\Debug\HouseParty3.exe
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\bin\Debug\HouseParty3.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\obj\Debug\HouseParty3.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\obj\Debug\HouseParty3.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\obj\Debug\HouseParty3.exe
+F:\Dokuments\Softuni\Tech Module\Lists\HouseParty3\obj\Debug\HouseParty3.pdb

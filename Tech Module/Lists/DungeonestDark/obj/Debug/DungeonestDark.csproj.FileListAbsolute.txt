@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\bin\Debug\DungeonestDark.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\bin\Debug\DungeonestDark.exe
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\bin\Debug\DungeonestDark.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\obj\Debug\DungeonestDark.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\obj\Debug\DungeonestDark.exe
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\obj\Debug\DungeonestDark.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\DungeonestDark\obj\Debug\DungeonestDark.csprojAssemblyReference.cache

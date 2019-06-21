@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\obj\Debug\DataTypes.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\bin\Debug\DataTypes.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\DataTypes\obj\Debug\DataTypes.pdb

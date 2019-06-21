@@ -1,0 +1,6 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\bin\Debug\AreaofFigures.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\AreaofFigures\obj\Debug\AreaofFigures.pdb

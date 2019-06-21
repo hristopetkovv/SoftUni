@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\bin\Debug\AsociativeArrays.exe.config
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\bin\Debug\AsociativeArrays.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\bin\Debug\AsociativeArrays.pdb
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\obj\Debug\AsociativeArrays.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\obj\Debug\AsociativeArrays.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\obj\Debug\AsociativeArrays.exe
+F:\Dokuments\Softuni\Tech Module\AsociativeArrays\AsociativeArrays\obj\Debug\AsociativeArrays.pdb

@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\Lists\Train\bin\Debug\Train.exe.config
+F:\Dokuments\Softuni\Tech Module\Lists\Train\bin\Debug\Train.exe
+F:\Dokuments\Softuni\Tech Module\Lists\Train\bin\Debug\Train.pdb
+F:\Dokuments\Softuni\Tech Module\Lists\Train\obj\Debug\Train.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\Lists\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\Lists\Train\obj\Debug\Train.exe
+F:\Dokuments\Softuni\Tech Module\Lists\Train\obj\Debug\Train.pdb

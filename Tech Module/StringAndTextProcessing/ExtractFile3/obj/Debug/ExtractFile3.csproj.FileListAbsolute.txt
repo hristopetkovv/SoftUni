@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\bin\Debug\ExtractFile3.exe.config
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\bin\Debug\ExtractFile3.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\bin\Debug\ExtractFile3.pdb
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\obj\Debug\ExtractFile3.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\obj\Debug\ExtractFile3.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\obj\Debug\ExtractFile3.exe
+F:\Dokuments\Softuni\Tech Module\StringAndTextProcessing\ExtractFile3\obj\Debug\ExtractFile3.pdb

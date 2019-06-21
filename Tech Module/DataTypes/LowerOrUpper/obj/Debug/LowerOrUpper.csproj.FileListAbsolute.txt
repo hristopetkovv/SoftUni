@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\bin\Debug\LowerOrUpper.exe.config
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\bin\Debug\LowerOrUpper.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\bin\Debug\LowerOrUpper.pdb
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\obj\Debug\LowerOrUpper.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\obj\Debug\LowerOrUpper.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\obj\Debug\LowerOrUpper.exe
+F:\Dokuments\Softuni\Tech Module\DataTypes\LowerOrUpper\obj\Debug\LowerOrUpper.pdb

@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\bin\Debug\MethodsExcercise.exe.config
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\bin\Debug\MethodsExcercise.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\bin\Debug\MethodsExcercise.pdb
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\obj\Debug\MethodsExcercise.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\obj\Debug\MethodsExcercise.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\obj\Debug\MethodsExcercise.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\MethodsExcercise\obj\Debug\MethodsExcercise.pdb

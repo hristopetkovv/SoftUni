@@ -1,0 +1,11 @@
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.deps.json
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.json
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.runtimeconfig.dev.json
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\bin\Debug\netcoreapp2.0\CarTrip.pdb
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.csprojAssemblyReference.cache
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.csproj.CoreCompileInputs.cache
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.AssemblyInfo.cs
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.dll
+C:\Users\i4kowe\Desktop\ExamPrep#2\New folder (2)\CarTrip\obj\Debug\netcoreapp2.0\CarTrip.pdb

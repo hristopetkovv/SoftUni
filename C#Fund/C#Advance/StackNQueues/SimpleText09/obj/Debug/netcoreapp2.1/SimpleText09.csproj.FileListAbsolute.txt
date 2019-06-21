@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\bin\Debug\netcoreapp2.1\SimpleText09.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\bin\Debug\netcoreapp2.1\SimpleText09.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\bin\Debug\netcoreapp2.1\SimpleText09.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\bin\Debug\netcoreapp2.1\SimpleText09.dll
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\bin\Debug\netcoreapp2.1\SimpleText09.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.dll
+E:\Documents\Softuni\C#Fund\C#Advance\StackNQueues\SimpleText09\obj\Debug\netcoreapp2.1\SimpleText09.pdb

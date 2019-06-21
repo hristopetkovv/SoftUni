@@ -1,0 +1,4 @@
+E:\Documents\Softuni\C#Fund\C#OOP\Polymorphism\P03.WildFarm\obj\Debug\netcoreapp2.1\P03.WildFarm.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Polymorphism\P03.WildFarm\obj\Debug\netcoreapp2.1\P03.WildFarm.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Polymorphism\P03.WildFarm\obj\Debug\netcoreapp2.1\P03.WildFarm.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Polymorphism\P03.WildFarm\obj\Debug\netcoreapp2.1\P03.WildFarm.AssemblyInfo.cs

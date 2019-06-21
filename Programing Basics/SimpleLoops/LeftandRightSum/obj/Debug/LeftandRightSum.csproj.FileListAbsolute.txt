@@ -1,0 +1,2 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\LeftandRightSum\obj\Debug\LeftandRightSum.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\LeftandRightSum\obj\Debug\LeftandRightSum.csproj.CoreCompileInputs.cache

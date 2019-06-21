@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\bin\Debug\VowelsCount.exe.config
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\bin\Debug\VowelsCount.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\bin\Debug\VowelsCount.pdb
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\obj\Debug\VowelsCount.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\obj\Debug\VowelsCount.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\VowelsCount\obj\Debug\VowelsCount.pdb

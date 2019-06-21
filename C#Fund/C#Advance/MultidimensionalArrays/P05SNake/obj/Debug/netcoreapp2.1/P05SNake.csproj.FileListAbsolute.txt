@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\bin\Debug\netcoreapp2.1\P05SNake.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\bin\Debug\netcoreapp2.1\P05SNake.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\bin\Debug\netcoreapp2.1\P05SNake.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\bin\Debug\netcoreapp2.1\P05SNake.dll
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\bin\Debug\netcoreapp2.1\P05SNake.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.dll
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\P05SNake\obj\Debug\netcoreapp2.1\P05SNake.pdb

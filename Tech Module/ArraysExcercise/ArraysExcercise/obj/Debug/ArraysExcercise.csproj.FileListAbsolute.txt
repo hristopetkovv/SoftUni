@@ -1,0 +1,7 @@
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\bin\Debug\ArraysExcercise.exe.config
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\bin\Debug\ArraysExcercise.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\bin\Debug\ArraysExcercise.pdb
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\obj\Debug\ArraysExcercise.csprojAssemblyReference.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\obj\Debug\ArraysExcercise.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\obj\Debug\ArraysExcercise.exe
+F:\Dokuments\Softuni\Tech Module\ArraysExcercise\ArraysExcercise\obj\Debug\ArraysExcercise.pdb

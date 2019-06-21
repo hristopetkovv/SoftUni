@@ -1,0 +1,11 @@
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.deps.json
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.json
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.runtimeconfig.dev.json
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.dll
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\bin\Debug\netcoreapp2.1\BakingFactory.pdb
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfoInputs.cache
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.AssemblyInfo.cs
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.dll
+C:\Users\Freeware Sys\Desktop\MidExam\BakingFactory\BakingFactory\obj\Debug\netcoreapp2.1\BakingFactory.pdb

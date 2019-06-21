@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.1\MultidimensionalArrays.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.1\MultidimensionalArrays.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.1\MultidimensionalArrays.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.1\MultidimensionalArrays.dll
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.1\MultidimensionalArrays.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.dll
+E:\Documents\Softuni\C#Fund\C#Advance\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.1\MultidimensionalArrays.pdb

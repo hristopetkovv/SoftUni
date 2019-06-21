@@ -1,0 +1,6 @@
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\bin\Debug\NxNMatrix.exe.config
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\bin\Debug\NxNMatrix.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\bin\Debug\NxNMatrix.pdb
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\obj\Debug\NxNMatrix.csproj.CoreCompileInputs.cache
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\obj\Debug\NxNMatrix.exe
+F:\Dokuments\Softuni\Tech Module\MethodsExcercise\NxNMatrix\obj\Debug\NxNMatrix.pdb

@@ -1,0 +1,6 @@
+D:\Softuni\Greeting\bin\Debug\Greeting.exe.config
+D:\Softuni\Greeting\bin\Debug\Greeting.exe
+D:\Softuni\Greeting\bin\Debug\Greeting.pdb
+D:\Softuni\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+D:\Softuni\Greeting\obj\Debug\Greeting.exe
+D:\Softuni\Greeting\obj\Debug\Greeting.pdb

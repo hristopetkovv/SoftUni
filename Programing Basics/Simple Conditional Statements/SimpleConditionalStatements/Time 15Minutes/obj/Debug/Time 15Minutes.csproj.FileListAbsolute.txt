@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\bin\Debug\Time 15Minutes.exe.config
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\bin\Debug\Time 15Minutes.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\bin\Debug\Time 15Minutes.pdb
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\obj\Debug\Time 15Minutes.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\obj\Debug\Time 15Minutes.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\obj\Debug\Time 15Minutes.exe
+E:\Dokuments\Softuni\Programing Basics\Simple Conditional Statements\SimpleConditionalStatements\Time 15Minutes\obj\Debug\Time 15Minutes.pdb

@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\bin\Debug\netcoreapp2.1\P08.MilitaryElite.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\bin\Debug\netcoreapp2.1\P08.MilitaryElite.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\bin\Debug\netcoreapp2.1\P08.MilitaryElite.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\bin\Debug\netcoreapp2.1\P08.MilitaryElite.dll
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\bin\Debug\netcoreapp2.1\P08.MilitaryElite.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.dll
+E:\Documents\Softuni\C#Fund\C#OOP\InterfacesAndAbstactions\P08.MilitaryElite\obj\Debug\netcoreapp2.1\P08.MilitaryElite.pdb

@@ -1,0 +1,7 @@
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.exe.config
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\bin\Debug\SumNumbers.pdb
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.csprojResolveAssemblyReference.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.csproj.CoreCompileInputs.cache
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.exe
+E:\Dokuments\Softuni\Programing Basics\SimpleLoops\SumNumbers\obj\Debug\SumNumbers.pdb
