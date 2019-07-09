@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.dll
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.dll
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\06.AutoRepair\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.pdb
