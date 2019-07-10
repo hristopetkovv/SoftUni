@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\bin\Debug\netcoreapp2.1\07.TruckTour.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\bin\Debug\netcoreapp2.1\07.TruckTour.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\bin\Debug\netcoreapp2.1\07.TruckTour.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\bin\Debug\netcoreapp2.1\07.TruckTour.dll
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\bin\Debug\netcoreapp2.1\07.TruckTour.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.dll
+E:\Documents\Softuni\C#Fund\C#Advance\01.StackNQueues\07.TruckTour\07.TruckTour\obj\Debug\netcoreapp2.1\07.TruckTour.pdb
