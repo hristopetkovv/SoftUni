@@ -5,50 +5,92 @@ class Computer {
         this.hddMemory = hddMemory;
         this.taskManager = [];
         this.installedPrograms = [];
+        this.totalRamUsage = 0;
+        this.totalCpuUsage = 0;
     }
 
     installAProgram(name, requiredSpace) {
-        if(requiredSpace > this.hddMemory) {
-            throw Error("There is not enough space on the hard drive");          
+        if (requiredSpace > this.hddMemory) {
+            throw new Error("There is not enough space on the hard drive");
         }
 
-        let obj = {name, requiredSpace};
-        this.hddMemory -= requiredSpace;
+        let program = {
+            name,
+            requiredSpace
+        };
+        this.hddMemory -= program.requiredSpace;
 
-        this.installedPrograms.push(obj);
+        this.installedPrograms.push(program);
 
-        return obj;
+        return program;
     }
 
     uninstallAProgram(name) {
-        let currentProgram = this.installedPrograms
-            .filter(x => x.installedPrograms.name === name);
+        const programIndex = this.installedPrograms.findIndex(p => p.name === name);
 
-        if(!currentProgram) {
-            throw Error("Control panel is not responding");
+        if (programIndex === -1) {
+            throw new Error('Control panel is not responding');
         }
 
-        let currentCapacity = currentProgram.requiredSpace;
-
-        this.installedPrograms = this.installedPrograms
-            .filter(x => x.installedPrograms.name !== name);
-        
-        this.hddMemory += currentCapacity;
+        this.hddMemory += this.installedPrograms[programIndex].requiredSpace;
+        this.installedPrograms.splice(programIndex, 1);
 
         return this.installedPrograms;
     }
 
     openAProgram(name) {
-        let currentProgram = this.installedPrograms
-            .filter(x => x.installedPrograms.name === name);
+        const programIndexInInstalledPrograms = this.installedPrograms
+            .findIndex(p => p.name === name);
 
-            if(!currentProgram) {
-                throw Error(`The ${name} is not recognized`);
-            }
+        if (programIndexInInstalledPrograms === -1) {
+            throw Error(`The ${name} is not recognized`);
+        }
 
-        let calcRam;
+        const programIndexInTaskManager = this.taskManager
+            .findIndex(p => p.name === name);
 
-        let ram = (this.installedPrograms[name].requiredSpace / this.ramMemory) * 1.5
-        let cpu = ((this.installedPrograms[name].requiredSpace / this.cpuGHz) / 500) * 1.5;
+        if (programIndexInTaskManager > -1) {
+            throw new Error(`The ${name} is already open`);
+        }
+
+        const program = this.installedPrograms[programIndexInInstalledPrograms];
+
+        const ramUsage = (program.requiredSpace / this.ramMemory) * 1.5;
+        const cpuUsage = ((program.requiredSpace / this.cpuGHz) / 500) * 1.5;
+
+        if (this.totalRamUsage + ramUsage >= 100) {
+            throw new Error(`${name} caused out of memory exception`);
+        }
+
+        if (this.totalCpuUsage + cpuUsage >= 100) {
+            throw new Error(`${name} caused out of cpu exception`);
+        }
+
+        const openedProgram = {
+            name,
+            ramUsage,
+            cpuUsage
+        };
+
+        this.totalRamUsage += openedProgram.ramUsage;
+        this.totalCpuUsage += openedProgram.cpuUsage;
+
+        this.taskManager.push(openedProgram);
+        return openedProgram;
+    }
+
+    taskManagerView() {
+        if (this.taskManager.length === 0) {
+            return 'All running smooth so far';
+        }
+
+        let info = [];
+
+        for (const program of this.taskManager) {
+            info.push(`Name - ${program.name} | Usage - CPU: ` +
+                `${program.cpuUsage.toFixed(0)}%, RAM: ${program.ramUsage.toFixed(0)}%`);
+        }
+
+        return info.join('\n');
     }
 }
