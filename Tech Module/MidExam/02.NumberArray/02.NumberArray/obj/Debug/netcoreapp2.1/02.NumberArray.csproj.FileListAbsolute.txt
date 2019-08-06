@@ -1,0 +1,11 @@
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\bin\Debug\netcoreapp2.1\02.NumberArray.deps.json
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\bin\Debug\netcoreapp2.1\02.NumberArray.runtimeconfig.json
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\bin\Debug\netcoreapp2.1\02.NumberArray.runtimeconfig.dev.json
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\bin\Debug\netcoreapp2.1\02.NumberArray.dll
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\bin\Debug\netcoreapp2.1\02.NumberArray.pdb
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.csprojAssemblyReference.cache
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.AssemblyInfo.cs
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.dll
+E:\Documents\Softuni\Tech Module\MidExam\02.NumberArray\02.NumberArray\obj\Debug\netcoreapp2.1\02.NumberArray.pdb
