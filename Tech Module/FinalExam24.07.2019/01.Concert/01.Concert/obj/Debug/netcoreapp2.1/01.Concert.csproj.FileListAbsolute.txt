@@ -1,0 +1,11 @@
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.deps.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.runtimeconfig.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.runtimeconfig.dev.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.dll
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\bin\Debug\netcoreapp2.1\01.Concert.pdb
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.csprojAssemblyReference.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.AssemblyInfo.cs
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.dll
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\01.Concert\01.Concert\obj\Debug\netcoreapp2.1\01.Concert.pdb

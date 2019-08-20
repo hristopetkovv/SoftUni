@@ -1,0 +1,11 @@
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\bin\Debug\netcoreapp2.1\02.SongEncryption.deps.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\bin\Debug\netcoreapp2.1\02.SongEncryption.runtimeconfig.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\bin\Debug\netcoreapp2.1\02.SongEncryption.runtimeconfig.dev.json
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\bin\Debug\netcoreapp2.1\02.SongEncryption.dll
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\bin\Debug\netcoreapp2.1\02.SongEncryption.pdb
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.csprojAssemblyReference.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.AssemblyInfo.cs
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.dll
+E:\Documents\Softuni\Tech Module\FinalExam24.07.2019\02.SongEncryption\02.SongEncryption\obj\Debug\netcoreapp2.1\02.SongEncryption.pdb
