@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.1\01.ClassBox.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.1\01.ClassBox.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.1\01.ClassBox.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.1\01.ClassBox.dll
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.1\01.ClassBox.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.dll
+E:\Documents\Softuni\C#Fund\C#OOP\02.Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.1\01.ClassBox.pdb
