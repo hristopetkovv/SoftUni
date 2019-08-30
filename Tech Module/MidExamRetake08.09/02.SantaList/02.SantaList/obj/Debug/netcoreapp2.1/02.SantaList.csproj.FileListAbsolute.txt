@@ -1,0 +1,11 @@
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\bin\Debug\netcoreapp2.1\02.SantaList.deps.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\bin\Debug\netcoreapp2.1\02.SantaList.runtimeconfig.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\bin\Debug\netcoreapp2.1\02.SantaList.runtimeconfig.dev.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\bin\Debug\netcoreapp2.1\02.SantaList.dll
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\bin\Debug\netcoreapp2.1\02.SantaList.pdb
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.csprojAssemblyReference.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.AssemblyInfo.cs
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.dll
+E:\Documents\Softuni\Tech Module\MidExamRetake\02.SantaList\02.SantaList\obj\Debug\netcoreapp2.1\02.SantaList.pdb

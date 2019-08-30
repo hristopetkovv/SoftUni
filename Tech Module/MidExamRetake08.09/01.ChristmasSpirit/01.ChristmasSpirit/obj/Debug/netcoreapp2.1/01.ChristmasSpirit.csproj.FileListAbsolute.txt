@@ -1,0 +1,11 @@
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\bin\Debug\netcoreapp2.1\01.ChristmasSpirit.deps.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\bin\Debug\netcoreapp2.1\01.ChristmasSpirit.runtimeconfig.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\bin\Debug\netcoreapp2.1\01.ChristmasSpirit.runtimeconfig.dev.json
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\bin\Debug\netcoreapp2.1\01.ChristmasSpirit.dll
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\bin\Debug\netcoreapp2.1\01.ChristmasSpirit.pdb
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.csprojAssemblyReference.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.AssemblyInfo.cs
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.dll
+E:\Documents\Softuni\Tech Module\MidExamRetake\01.ChristmasSpirit\01.ChristmasSpirit\obj\Debug\netcoreapp2.1\01.ChristmasSpirit.pdb
