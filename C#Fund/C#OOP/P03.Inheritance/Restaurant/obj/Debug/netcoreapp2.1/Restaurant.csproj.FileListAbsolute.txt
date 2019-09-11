@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+E:\Documents\Softuni\C#Fund\C#OOP\P03.Inheritance\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb
