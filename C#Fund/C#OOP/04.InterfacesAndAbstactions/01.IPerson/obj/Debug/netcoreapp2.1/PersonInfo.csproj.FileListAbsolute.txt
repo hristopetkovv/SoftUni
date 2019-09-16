@@ -1,0 +1,10 @@
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\bin\Debug\netcoreapp2.1\PersonInfo.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\bin\Debug\netcoreapp2.1\PersonInfo.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\bin\Debug\netcoreapp2.1\PersonInfo.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\bin\Debug\netcoreapp2.1\PersonInfo.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\obj\Debug\netcoreapp2.1\PersonInfo.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\obj\Debug\netcoreapp2.1\PersonInfo.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\obj\Debug\netcoreapp2.1\PersonInfo.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\01.IPerson\obj\Debug\netcoreapp2.1\PersonInfo.pdb
