@@ -1,0 +1,10 @@
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\bin\Debug\netcoreapp2.1\04.Telephony.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\04.Telephony\obj\Debug\netcoreapp2.1\04.Telephony.pdb

@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\bin\Debug\netcoreapp2.1\02.MultipleImplementation.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\02.MultipleImplementation\obj\Debug\netcoreapp2.1\02.MultipleImplementation.pdb

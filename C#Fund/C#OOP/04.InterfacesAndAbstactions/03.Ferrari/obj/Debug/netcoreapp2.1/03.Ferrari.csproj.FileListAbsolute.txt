@@ -1,0 +1,10 @@
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\bin\Debug\netcoreapp2.1\03.Ferrari.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.dll
+E:\Documents\Softuni\C#Fund\C#OOP\04.InterfacesAndAbstactions\03.Ferrari\obj\Debug\netcoreapp2.1\03.Ferrari.pdb
