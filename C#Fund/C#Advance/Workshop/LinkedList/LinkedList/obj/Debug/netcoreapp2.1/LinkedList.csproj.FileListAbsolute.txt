@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+E:\Documents\Softuni\C#Fund\C#Advance\Workshop\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb
