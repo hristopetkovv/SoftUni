@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\03.Introduction-to-Entity-Framework\Db-First\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
