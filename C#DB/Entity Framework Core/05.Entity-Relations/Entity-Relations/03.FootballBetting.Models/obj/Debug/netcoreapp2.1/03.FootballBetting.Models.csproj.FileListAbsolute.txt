@@ -1,0 +1,9 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\bin\Debug\netcoreapp2.1\03.FootballBetting.Models.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\bin\Debug\netcoreapp2.1\03.FootballBetting.Models.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\bin\Debug\netcoreapp2.1\03.FootballBetting.Models.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\05.Entity-Relations\Entity-Relations\03.FootballBetting.Models\obj\Debug\netcoreapp2.1\03.FootballBetting.Models.pdb
