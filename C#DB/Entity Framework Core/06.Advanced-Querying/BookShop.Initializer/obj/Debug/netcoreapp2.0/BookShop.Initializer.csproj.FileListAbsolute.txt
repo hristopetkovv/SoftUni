@@ -1,0 +1,14 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.csproj.CopyComplete
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\06.Advanced-Querying\BookShop.Initializer\obj\Debug\netcoreapp2.0\BookShop.Initializer.pdb
