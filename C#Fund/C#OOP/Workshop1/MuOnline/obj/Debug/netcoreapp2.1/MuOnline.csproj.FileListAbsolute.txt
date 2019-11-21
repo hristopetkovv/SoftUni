@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\bin\Debug\netcoreapp2.1\MuOnline.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\bin\Debug\netcoreapp2.1\MuOnline.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\bin\Debug\netcoreapp2.1\MuOnline.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\bin\Debug\netcoreapp2.1\MuOnline.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\bin\Debug\netcoreapp2.1\MuOnline.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.dll
+E:\Documents\Softuni\C#Fund\C#OOP\Workshop1\MuOnline\obj\Debug\netcoreapp2.1\MuOnline.pdb
