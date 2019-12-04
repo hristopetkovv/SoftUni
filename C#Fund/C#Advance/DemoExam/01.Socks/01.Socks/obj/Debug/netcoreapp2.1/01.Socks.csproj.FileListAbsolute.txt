@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.deps.json
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.dll
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.pdb
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.dll
+E:\Documents\Softuni\C#Fund\C#Advance\DemoExam\01.Socks\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.pdb

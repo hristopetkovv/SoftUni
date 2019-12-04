@@ -8,44 +8,49 @@ namespace _01.Socks
     {
         static void Main(string[] args)
         {
-            int[] leftSocksInput = Console.ReadLine()
-                .Split()
+            var leftArr = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            int[] rightSocksInput = Console.ReadLine()
-                .Split()
+            var rightArr = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
                 .Select(int.Parse)
                 .ToArray();
 
-            Stack<int> leftSocks = new Stack<int>(leftSocksInput);
+            var leftSocks = new Stack<int>(leftArr);
 
-            Queue<int> rightSocks = new Queue<int>(rightSocksInput);
+            var rightSocks = new Queue<int>(rightArr);
 
-            List<int> sets = new List<int>();
+            var pairs = new Queue<int>();
 
-            while (leftSocks.Any() && rightSocks.Any())
+            while(true)
             {
-                int leftSock = leftSocks.Pop();
-                int rightSock = rightSocks.Peek();
-
-                if (leftSock > rightSock)
+                if (leftSocks.Count < 1 || rightSocks.Count < 1)
                 {
-                    int setValue = leftSock + rightSock;
-                    sets.Add(setValue);
-                    rightSocks.Dequeue();
+                    Console.WriteLine(pairs.Max());
+                    Console.WriteLine(string.Join(' ', pairs));
+                    return;
                 }
-                else if (leftSock == rightSock)
+
+                if (leftSocks.Peek() > rightSocks.Peek())
+                {
+                    var pair = leftSocks.Pop() + rightSocks.Dequeue();
+                    pairs.Enqueue(pair);
+                    continue;
+                }
+                if (leftSocks.Peek() < rightSocks.Peek())
+                {
+                    leftSocks.Pop();
+                    continue;
+                }
+                if (leftSocks.Peek() == rightSocks.Peek())
                 {
                     rightSocks.Dequeue();
-                    int leftSockIncrement = leftSock + 1;
-                    leftSocks.Push(leftSockIncrement);
+                    leftSocks.Push(leftSocks.Pop() + 1);
+                    continue;
                 }
             }
-
-            Console.WriteLine(sets.Max());
-
-            Console.WriteLine(string.Join(" ", sets));
         }
     }
 }
