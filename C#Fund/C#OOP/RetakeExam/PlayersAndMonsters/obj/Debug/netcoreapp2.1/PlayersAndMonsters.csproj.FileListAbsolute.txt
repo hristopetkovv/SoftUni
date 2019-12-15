@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.deps.json
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.json
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.runtimeconfig.dev.json
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\bin\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
+E:\Documents\Softuni\C#Fund\C#OOP\RetakeExam\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
