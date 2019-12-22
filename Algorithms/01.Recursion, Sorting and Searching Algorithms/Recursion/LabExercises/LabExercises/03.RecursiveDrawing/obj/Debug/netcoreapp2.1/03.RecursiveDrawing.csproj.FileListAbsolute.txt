@@ -1,0 +1,10 @@
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\bin\Debug\netcoreapp2.1\03.RecursiveDrawing.deps.json
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\bin\Debug\netcoreapp2.1\03.RecursiveDrawing.runtimeconfig.json
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\bin\Debug\netcoreapp2.1\03.RecursiveDrawing.runtimeconfig.dev.json
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\bin\Debug\netcoreapp2.1\03.RecursiveDrawing.dll
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\bin\Debug\netcoreapp2.1\03.RecursiveDrawing.pdb
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\obj\Debug\netcoreapp2.1\03.RecursiveDrawing.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\obj\Debug\netcoreapp2.1\03.RecursiveDrawing.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\obj\Debug\netcoreapp2.1\03.RecursiveDrawing.AssemblyInfo.cs
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\obj\Debug\netcoreapp2.1\03.RecursiveDrawing.dll
+E:\Documents\Softuni\Algorithms\01.Recursion, Sorting and Searching Algorithms\Recursion\LabExercises\LabExercises\03.RecursiveDrawing\obj\Debug\netcoreapp2.1\03.RecursiveDrawing.pdb
