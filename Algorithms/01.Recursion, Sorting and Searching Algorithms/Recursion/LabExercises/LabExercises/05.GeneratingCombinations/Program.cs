@@ -6,7 +6,23 @@ namespace _05.GeneratingCombinations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+        }
+
+        private static void GenCombs(int[] set, int[] vector, int index, int border)
+        {
+            if (index >= vector.Length)
+            {
+                //Print vector
+            }
+            else
+            {
+                for (int i = border + 1; i < set.Length; i++)
+                {
+                    vector[index] = set[i];
+                    GenCombs(set, vector, index + 1, i);
+                }
+            }
         }
     }
 }
