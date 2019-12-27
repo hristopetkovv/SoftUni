@@ -13,11 +13,6 @@
   </ItemGroup>
   
     <ItemGroup>
-      <Folder Include="DataProcessor\ExportDto\" />
-      <Folder Include="DataProcessor\ImportDto\" />
-    </ItemGroup>
-  
-    <ItemGroup>
       <Reference Include="System">
         <HintPath>System</HintPath>
       </Reference>

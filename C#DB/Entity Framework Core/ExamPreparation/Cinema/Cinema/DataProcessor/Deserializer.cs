@@ -1,8 +1,17 @@
 ﻿namespace Cinema.DataProcessor
 {
     using System;
-
+    using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
+    using System.Globalization;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+    using System.Xml.Serialization;
+    using Cinema.Data.Models;
+    using Cinema.DataProcessor.ImportDto;
     using Data;
+    using Newtonsoft.Json;
 
     public class Deserializer
     {
@@ -18,22 +27,209 @@
 
         public static string ImportMovies(CinemaContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            var movies = JsonConvert.DeserializeObject<MovieImportDto[]>(jsonString);
+            var sb = new StringBuilder();
+
+            foreach (var dto in movies)
+            {
+                if (IsValid(dto))
+                {
+                    var movie = new Movie
+                    {
+                        Title = dto.Title,
+                        Genre = dto.Genre,
+                        Duration = dto.Duration,
+                        Rating = dto.Rating,
+                        Director = dto.Director
+                    };
+
+                    context.Movies.Add(movie);
+                    sb.AppendLine(string.Format(SuccessfulImportMovie, dto.Title, dto.Genre, dto.Rating.ToString("F2")));
+                }
+                else
+                {
+                    sb.AppendLine(ErrorMessage);
+                }
+            }
+
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportHallSeats(CinemaContext context, string jsonString)
         {
-            throw new NotImplementedException();
+            var objects = JsonConvert.DeserializeObject<HallSeatsImportDto[]>(jsonString);
+            var sb = new StringBuilder();
+
+            foreach (var dto in objects)
+            {
+                if (IsValid(dto))
+                {
+                    var hall = new Hall
+                    {
+                        Name = dto.Name,
+                        Is4Dx = dto.Is4Dx,
+                        Is3D = dto.Is3D
+                    };
+
+                    context.Halls.Add(hall);
+                    AddSeatsInDatabase(context, hall.Id, dto.Seats);
+                    var projectionType = GetProjectionType(hall);
+
+                    sb.AppendLine(string.Format(SuccessfulImportHallSeat, dto.Name, projectionType, dto.Seats));
+                }
+                else
+                {
+                    sb.AppendLine(ErrorMessage);
+                }
+            }
+
+            context.SaveChanges();
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportProjections(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var serializer = new XmlSerializer(typeof(ProjectionImportDto[]), new XmlRootAttribute("Projections"));
+            var objects = (ProjectionImportDto[])serializer.Deserialize(new StringReader(xmlString));
+            var sb = new StringBuilder();
+
+            foreach (var dto in objects)
+            {
+                if (IsValid(dto) && IsValidMovieId(context, dto.MovieId) && IsValidHallId(context, dto.HallId))
+                {
+                    var projection = new Projection
+                    {
+                        MovieId = dto.MovieId,
+                        HallId = dto.HallId,
+                        DateTime = DateTime.ParseExact(dto.DateTime, "yyyy-MM-dd HH:mm:ss", CultureInfo.InvariantCulture)
+                    };
+
+                    context.Projections.Add(projection);
+
+                    var dateTimeResult = projection.DateTime.ToString("MM/dd/yyyy");
+
+                    sb.AppendLine(string.Format(SuccessfulImportProjection, projection.Movie.Title, dateTimeResult));
+                }
+                else
+                {
+                    sb.AppendLine(ErrorMessage);
+                }
+
+            }
+
+            context.SaveChanges();
+
+            return sb.ToString().TrimEnd();
         }
 
         public static string ImportCustomerTickets(CinemaContext context, string xmlString)
         {
-            throw new NotImplementedException();
+            var serializer = new XmlSerializer(typeof(CustomerImportDto[]), new XmlRootAttribute("Customers"));
+            var objects = (CustomerImportDto[])serializer.Deserialize(new StringReader(xmlString));
+            var sb = new StringBuilder();
+
+            foreach (var dto in objects)
+            {
+                if (IsValid(dto))
+                {
+                    var customer = new Customer
+                    {
+                        FirstName = dto.FirstName,
+                        LastName = dto.LastName,
+                        Age = dto.Age,
+                        Balance = dto.Balance
+                    };
+
+                    context.Customers.Add(customer);
+                    AddCustomerTickets(context, customer.Id, dto.Tickets);
+
+                    sb.AppendLine(string.Format(SuccessfulImportCustomerTicket, dto.FirstName, dto.LastName, dto.Tickets.Length));
+                }
+                else
+                {
+                    sb.AppendLine(ErrorMessage);
+                }
+            }
+
+            context.SaveChanges();
+            return sb.ToString().TrimEnd();
+        }
+
+        private static void AddCustomerTickets(CinemaContext context, int customerId, TicketImportCustomerDto[] dtoTickets)
+        {
+            var tickets = new List<Ticket>();
+            foreach (var dto in dtoTickets)
+            {
+                if (IsValid(dto))
+                {
+                    var ticket = new Ticket
+                    {
+                        ProjectionId = dto.ProjectionId,
+                        CustomerId = customerId,
+                        Price = dto.Price
+                    };
+
+                    tickets.Add(ticket);
+                }
+            }
+
+            context.Tickets.AddRange(tickets);
+            context.SaveChanges();
+        }
+
+        private static bool IsValid(object obj)
+        {
+            var validator = new ValidationContext(obj);
+            var validationResult = new List<ValidationResult>();
+
+            var result = Validator.TryValidateObject(obj, validator, validationResult, true);
+
+            return result;
+        }
+
+        private static string GetProjectionType(Hall hall)
+        {
+            var res = "Normal";
+
+            if (hall.Is4Dx && hall.Is3D)
+            {
+                res = "4Dx/3D";
+            }
+            else if (hall.Is3D)
+            {
+                res = "3D";
+            }
+            else if (hall.Is4Dx)
+            {
+                res = "4Dx";
+            }
+
+            return res;
+        }
+
+        private static void AddSeatsInDatabase(CinemaContext context, int hallId, int seatCount)
+        {
+            var seats = new List<Seat>();
+
+            for (int i = 0; i < seatCount; i++)
+            {
+                seats.Add(new Seat { HallId = hallId });
+            }
+
+            context.AddRange(seats);
+            context.SaveChanges();
+        }
+
+        private static bool IsValidHallId(CinemaContext context, int hallId)
+        {
+            return context.Halls.Any(h => h.Id == hallId);
+        }
+
+        private static bool IsValidMovieId(CinemaContext context, int movieId)
+        {
+            return context.Movies.Any(m => m.Id == movieId);
         }
     }
 }
