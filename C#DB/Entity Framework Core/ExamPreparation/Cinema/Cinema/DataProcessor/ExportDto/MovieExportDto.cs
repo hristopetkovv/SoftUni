@@ -10,6 +10,6 @@
 
         public string TotalIncomes { get; set; }
 
-        public ICollection<CustomerMovieExportDto> Customers { get; set; }
+        public CustomerMovieExportDto[] Customers { get; set; }
     }
 }
