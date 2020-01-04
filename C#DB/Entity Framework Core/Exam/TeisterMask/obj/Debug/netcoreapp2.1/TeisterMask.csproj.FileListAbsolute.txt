@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csproj.CoreCompileInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
