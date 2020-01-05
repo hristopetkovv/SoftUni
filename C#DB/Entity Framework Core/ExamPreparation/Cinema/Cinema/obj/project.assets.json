@@ -4911,11 +4911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Softuni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\Cinema.csproj",
+      "projectUniqueName": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\Cinema.csproj",
       "projectName": "Cinema",
-      "projectPath": "E:\\Documents\\Softuni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\Cinema.csproj",
+      "projectPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\Cinema.csproj",
       "packagesPath": "C:\\Users\\i4kowe\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Softuni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\obj\\",
+      "outputPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\C#DB\\Entity Framework Core\\ExamPreparation\\Cinema\\Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
