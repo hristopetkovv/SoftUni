@@ -1,0 +1,10 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
