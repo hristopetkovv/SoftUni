@@ -1,0 +1,10 @@
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+E:\Documents\Softuni\C#DB\Entity Framework Core\09.XML-Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

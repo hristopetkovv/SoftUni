@@ -11,6 +11,10 @@
 
     using AutoMapper;
     using System.Collections.Generic;
+    using AutoMapper.QueryableExtensions;
+    using CarDealer.Dtos.Export;
+    using System.Text;
+    using System.Xml;
 
     public class StartUp
     {
@@ -21,11 +25,11 @@
 
             using (var db = new CarDealerContext())
             {
-                var inputXml = File.ReadAllText("./../../../Datasets/customers.xml");
+                //var inputXml = File.ReadAllText("./../../../Datasets/sales.xml");
 
-                var result = ImportCustomers(db, inputXml);
+                //var result = GetCarsWithDistance(db);
 
-                Console.WriteLine(result);
+                Console.WriteLine(GetSalesWithAppliedDiscount(db));
             }
         }
 
@@ -114,14 +118,14 @@
 
         public static string ImportCustomers(CarDealerContext context, string inputXml)
         {
-            var xmlSerializer = new XmlSerializer(typeof(CustomerDto[]),
+            var xmlSerializer = new XmlSerializer(typeof(ImportCustomerDto[]),
                                 new XmlRootAttribute("Customers"));
 
-            CustomerDto[] customerDtos;
+            ImportCustomerDto[] customerDtos;
 
             using (var reader = new StringReader(inputXml))
             {
-                customerDtos = (CustomerDto[])xmlSerializer.Deserialize(reader);
+                customerDtos = (ImportCustomerDto[])xmlSerializer.Deserialize(reader);
             }
 
             var customers = Mapper.Map<Customer[]>(customerDtos);
@@ -130,6 +134,166 @@
             context.SaveChanges();
 
             return $"Successfully imported {customers.Length}";
+        }
+
+        public static string ImportSales(CarDealerContext context, string inputXml)
+        {
+            var xmlSerializer = new XmlSerializer(typeof(ImportSalesDto[]),
+                                new XmlRootAttribute("Sales"));
+
+            var salesDtos = (ImportSalesDto[])xmlSerializer.Deserialize(new StringReader(inputXml));
+
+            var carsId = context.Cars.Select(c => c.Id);
+
+            var validSales = new List<ImportSalesDto>();
+
+            foreach (var sale in salesDtos)
+            {
+                if (carsId.Contains(sale.CarId))
+                {
+                    validSales.Add(sale);
+                }
+            }
+
+            var sales = Mapper.Map<Sale[]>(validSales);
+
+            context.Sales.AddRange(sales);
+            context.SaveChanges();
+
+            return $"Successfully imported {sales.Length}";
+        }
+
+        public static string GetCarsWithDistance(CarDealerContext context)
+        {
+            var cars = context
+                .Cars
+                .Where(c => c.TravelledDistance > 2000000)
+                .OrderBy(c => c.Make)
+                .ThenBy(c => c.Model)
+                .Take(10)
+                .ProjectTo<ExportCarWithDistanceDto>()
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportCarWithDistanceDto[]),
+                                new XmlRootAttribute("cars"));
+
+            var sb = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(sb), cars, namespaces);
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public static string GetCarsFromMakeBmw(CarDealerContext context)
+        {
+            var cars = context
+                .Cars
+                .Where(c => c.Make == "BMW")
+                .OrderBy(c => c.Model)
+                .ThenByDescending(c => c.TravelledDistance)
+                .ProjectTo<ExportCarFromMakeBmwDto>()
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportCarFromMakeBmwDto[]),
+                                new XmlRootAttribute("cars"));
+
+            var sb = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(sb), cars, namespaces);
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public static string GetLocalSuppliers(CarDealerContext context)
+        {
+            var suppliers = context
+                .Suppliers
+                .Where(s => !s.IsImporter)
+                .ProjectTo<ExportLocalSupplierDto>()
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportLocalSupplierDto[]),
+                                new XmlRootAttribute("suppliers"));
+
+            var sb = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(sb), suppliers, namespaces);
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public static string GetCarsWithTheirListOfParts(CarDealerContext context)
+        {
+            var cars = context
+                .Cars
+                .OrderByDescending(c => c.TravelledDistance)
+                .ThenBy(c => c.Model)
+                .Take(5)
+                .Select(c => new ExportCarsWithTheirListOfParts
+                {
+                    Make = c.Make,
+                    Model = c.Model,
+                    TravelledDistance = c.TravelledDistance,
+                    Parts = c.PartCars.Select(pc => new ExportPartsOfCarsDto
+                    {
+                        Name = pc.Part.Name,
+                        Price = pc.Part.Price
+                    })
+                    .OrderByDescending(p => p.Price)
+                    .ToArray()
+                })
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportCarsWithTheirListOfParts[]),
+                            new XmlRootAttribute("cars"));
+
+            var stringBuilder = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(stringBuilder), cars, namespaces);
+
+            return stringBuilder.ToString().TrimEnd();
+        }
+
+        public static string GetTotalSalesByCustomer(CarDealerContext context)
+        {
+            var customers = context
+                .Customers
+                .Where(c => c.Sales.Any())
+                .ProjectTo<ExportTotalSalesByCustomerDto>()
+                .OrderByDescending(cdto => cdto.SpentMoney)
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportTotalSalesByCustomerDto[]),
+                            new XmlRootAttribute("customers"));
+
+            var stringBuilder = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(stringBuilder), customers, namespaces);
+
+            return stringBuilder.ToString().TrimEnd();
+        }
+
+        public static string GetSalesWithAppliedDiscount(CarDealerContext context)
+        {
+            var sales = context
+                .Sales
+                .ProjectTo<ExportSalesWithAppliedDiscountDto>()
+                .ToArray();
+
+            var xmlSerializer = new XmlSerializer(typeof(ExportSalesWithAppliedDiscountDto[]),
+                            new XmlRootAttribute("sales"));
+
+            var stringBuilder = new StringBuilder();
+
+            var namespaces = new XmlSerializerNamespaces(new[] { XmlQualifiedName.Empty });
+            xmlSerializer.Serialize(new StringWriter(stringBuilder), sales, namespaces);
+
+            return stringBuilder.ToString().TrimEnd();
         }
     }
 }
