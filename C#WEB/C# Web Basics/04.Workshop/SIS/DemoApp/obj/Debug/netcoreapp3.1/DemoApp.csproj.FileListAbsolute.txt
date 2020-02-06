@@ -1,0 +1,17 @@
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.exe
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.deps.json
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.json
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.dev.json
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\SIS.HTTP.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\SIS.HTTP.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CopyComplete
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\DemoApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico

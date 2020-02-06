@@ -1,0 +1,8 @@
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb

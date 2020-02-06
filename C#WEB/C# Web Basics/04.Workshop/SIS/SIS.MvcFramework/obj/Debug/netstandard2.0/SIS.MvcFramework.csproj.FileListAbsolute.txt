@@ -1,0 +1,11 @@
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+E:\Documents\Softuni\C#WEB\C# Web Basics\04.Workshop\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
