@@ -1,17 +1,17 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-
-namespace SIS.HTTP
+﻿namespace SIS.HTTP
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Web;
+
     public class HttpRequest
     {
         public HttpRequest(string httpRequestAsString)
         {
             this.Headers = new List<Header>();
             this.Cookies = new List<Cookie>();
+            this.SessionData = new Dictionary<string, string>();
 
             var lines = httpRequestAsString.Split(new string[] { HttpConstants.NewLine }, StringSplitOptions.None);
             var httpInfoHeader = lines[0];
@@ -85,6 +85,18 @@ namespace SIS.HTTP
                 }
             }
 
+            this.Body = bodyBuilder.ToString().TrimEnd('\r', '\n');
+            this.FormData = new Dictionary<string, string>();
+
+            var bodyParts = this.Body.Split(new char[] { '&' }, StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var bodyPart in bodyParts)
+            {
+                var parameterParts = bodyPart.Split(new char[] { '=' }, 2);
+                this.FormData.Add(
+                    HttpUtility.UrlDecode(parameterParts[0]), 
+                    HttpUtility.UrlDecode(parameterParts[1]));
+            }
         }
         public HttpMethodType Method { get; set; }
 
@@ -97,6 +109,8 @@ namespace SIS.HTTP
         public IList<Cookie> Cookies { get; set; }
 
         public string Body { get; set; }
+
+        public IDictionary<string, string> FormData { get; set; }
 
         public IDictionary<string, string> SessionData { get; set; }
     }
