@@ -1,0 +1,11 @@
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\C#WEB\C# Web Basics\ЕxamPrepation\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
