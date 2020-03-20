@@ -34,7 +34,10 @@
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(
-                options => options.UseSqlServer(this.configuration.GetConnectionString("DefaultConnection")));
+                options => options.UseSqlServer(
+                    this.configuration.GetConnectionString("DefaultConnection"),
+                    b => b.MigrationsAssembly(typeof(Startup).Assembly.FullName)));
+
 
             services.AddDefaultIdentity<ApplicationUser>(IdentityOptionsProvider.GetIdentityOptions)
                 .AddRoles<ApplicationRole>().AddEntityFrameworkStores<ApplicationDbContext>();

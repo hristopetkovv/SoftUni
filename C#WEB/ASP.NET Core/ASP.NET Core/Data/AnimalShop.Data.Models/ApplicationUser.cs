@@ -5,7 +5,6 @@ namespace AnimalShop.Data.Models
     using System.Collections.Generic;
 
     using AnimalShop.Data.Common.Models;
-
     using Microsoft.AspNetCore.Identity;
 
     public class ApplicationUser : IdentityUser, IAuditInfo, IDeletableEntity
@@ -16,8 +15,14 @@ namespace AnimalShop.Data.Models
             this.Roles = new HashSet<IdentityUserRole<string>>();
             this.Claims = new HashSet<IdentityUserClaim<string>>();
             this.Logins = new HashSet<IdentityUserLogin<string>>();
+            this.Orders = new HashSet<Order>();
         }
 
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+        public virtual ICollection<Order> Orders { get; set; }
         // Audit info
         public DateTime CreatedOn { get; set; }
 
