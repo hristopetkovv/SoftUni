@@ -26,15 +26,90 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <partial name="_LoginPartial" />
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="nav nav-tabs flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Dogs</a>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                Dogs
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Houses</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bolws</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                Cats
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Houses</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bolws</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                Birds
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Cages</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bottles</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                Fishes
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Cages</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bottles</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                SmallPets
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Cages</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bottles</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle nav-link text-dark" data-toggle="dropdown" href="#">
+                                PetAdvices
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="list-group-item text-dark" href="#">Food</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Cages</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Toys</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Bottles</a></li>
+                                <li><a class="list-group-item text-dark" href="#">Accessories</a></li>
+                            </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Settings" asp-action="Index">Settings</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Contacts" asp-action="Index">Contacts</a>
                         </li>
                     </ul>
                 </div>
@@ -51,7 +126,8 @@
     
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; @DateTime.Now.Year - @GlobalConstants.SystemName - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; @DateTime.Now - <a asp-area="" asp-controller="Home" asp-action="Index">@GlobalConstants.SystemName</a> - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> -
+            <a asp-area="" asp-controller="Contacts" asp-action="Index">Contact us</a>
         </div>
     </footer>
 

@@ -2,12 +2,12 @@
 {
     public enum ProductCategory
     {
-        Toys = 0,
-        Houses = 1,
-        Cages = 2,
-        Bolws = 3,
-        Aquariums = 4,
-        Bottles = 5,
-        Accessories = 6
+        Toys = 1,
+        Houses = 2,
+        Cages = 3,
+        Bolws = 4,
+        Aquariums = 5,
+        Bottles = 6,
+        Accessories = 7,
     }
 }

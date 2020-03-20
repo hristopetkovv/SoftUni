@@ -40,6 +40,8 @@
 
         public DbSet<ProductOrder> ProductOrders { get; set; }
 
+        public DbSet<ContactForm> ContactsForm { get; set; }
+
         public override int SaveChanges() => this.SaveChanges(true);
 
         public override int SaveChanges(bool acceptAllChangesOnSuccess)

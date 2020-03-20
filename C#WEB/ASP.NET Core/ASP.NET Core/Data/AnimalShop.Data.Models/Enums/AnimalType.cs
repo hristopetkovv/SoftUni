@@ -2,12 +2,12 @@
 {
     public enum AnimalType
     {
-        Dog = 0,
-        Cat = 1,
-        Birds = 2,
-        Fish = 3,
-        Hamster = 4,
-        Rabbit = 5,
-        Chinchilla = 6
+        Dog = 1,
+        Cat = 2,
+        Birds = 3,
+        Fish = 4,
+        Hamster = 5,
+        Chinchilla = 6,
+        Rabbit = 7,
     }
 }

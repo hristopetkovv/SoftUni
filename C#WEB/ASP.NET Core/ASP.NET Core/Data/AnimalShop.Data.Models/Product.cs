@@ -25,5 +25,7 @@ namespace AnimalShop.Data.Models
         public ProductCategory Category { get; set; }
 
         public int Stock { get; set; }
+
+        public string Image { get; set; }
     }
 }
