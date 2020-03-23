@@ -63,6 +63,8 @@
             services.AddTransient<IEmailSender, NullMessageSender>();
             services.AddTransient<ISettingsService, SettingsService>();
             services.AddTransient<IPetAdvicesService, PetAdvicesService>();
+            services.AddTransient<IFoodService, FoodService>();
+            services.AddTransient<IDogsService, DogsService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
