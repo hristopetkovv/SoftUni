@@ -1,62 +1,17 @@
-﻿<h2 class="text-center">Dog Advices</h2>
+﻿@model AnimalShop.Web.ViewModels.PetAdvices.PetAdviceListingViewModel
+
+@{
+    this.ViewData["Title"] = "Dog Advices";
+}
+
+<h2 class="text-center">Dog Advices</h2>
 
 <div class="adviceListingResult">
     <ul style="list-style: none;">
-        <li>
-            <a href="https://www.vets4pets.com/pet-health-advice/dog-advice/dog-diet-advice/" class="listingBlock theme-brand1">
-                <div class="listingBlockWrap">
-                    <img style="margin-right: 10px"  class="rounded" align="left" alt="dog eating" src="https://previews.123rf.com/images/photodeti/photodeti1804/photodeti180400234/98489505-funny-puppy-holds-bowl-of-dry-dog-above-white-banner-isolated-on-white-background-.jpg" height="85" width="85" />
-                    <h3>Dog Diet Advice</h3>
-                    <p class="text-dark">
-                        "Feeding a dog properly can sometimes turn into a right dogs dinner. Find the right way to feed your dog or puppy in our free, and simple, dog feeding guide."
-                    </p>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.vets4pets.com/pet-health-advice/dog-advice/anxiety-in-dogs/" class="listingBlock theme-brand1">
-                <div class="listingBlockWrap">
-                    <img style="margin-right: 10px" class="rounded" align="left" alt="dog eating" src="https://i.pinimg.com/originals/02/56/75/02567551b4a11d8b2100a635539b06d0.jpg" height="85" width="85" />
-                    <h3 class="listingBlockTitle">Dog Anxiety Advice &amp; Care</h3>
-                    <p class="text-dark">
-                        Dogs may develop anxiety for many reasons. Learn how to help prevent your dog from becoming anxious and what to do if they begin showing signs of stress.
-                    </p>
-                </div>
-            </a>
-        </li>
-        <li >
-            <a href="https://www.vets4pets.com/pet-health-advice/dog-advice/dog-breeds/" class="listingBlock theme-brand1">
-                <div class="listingBlockWrap">
-                    <img style="margin-right: 10px" class="rounded " align="left" alt="dog eating" src="https://www.vets4pets.com/siteassets/species/dog/large-dog-running-through-autumn-leaves.jpg?w=585&scale=down" height="85" width="85" />
-                    <h3 class="listingBlockTitle">Dog Breeds</h3>
-                    <p class="text-dark">
-                        "It's very important you do your research before choosing which breed of dog is right for you. Learn more about the more popular dog breeds here."
-                    </p>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.vets4pets.com/pet-health-advice/dog-advice/vaccinating-your-dog/" class="listingBlock theme-brand1">
-                <div class="listingBlockWrap">
-                    <img style="margin-right: 10px" class="rounded" align="left" alt="dog eating" src="https://www.vets4pets.com/siteassets/species/dog/dog-on-lead-looking-up-at-camera.jpg?w=585&scale=down" height="85" width="85" />
-                    <h3 class="listingBlockTitle">Vaccinating Your Dog</h3>
-                    <p class="text-dark">
-                        "A dog vaccination can help prevent various diseases &amp; viruses. Find all the advice you need about vaccinating your dog and request an appointment online."
-                    </p>
-                </div>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.vets4pets.com/pet-health-advice/dog-advice/how-to-choose-the-right-dog-or-puppy/" class="listingBlock theme-brand1">
-                <div class="listingBlockWrap">
-                    <img style="margin-right: 10px" class="rounded" align="left" alt="dog eating" src="https://www.vets4pets.com/siteassets/species/dog/puppy/3-puppies-on-chair.jpg?w=585&scale=down" height="85" width="85" />
-                    <h3 class="listingBlockTitle">How To Choose The Right Dog or Puppy</h3>
-                    <p class="text-dark">
-                        "Are you looking for a dog that loves adventure or a quiet companion who will while away the days with you?&nbsp;Find out how to choose the right dog for you."
-                    </p>
-                </div>
-            </a>
-        </li>
+        @foreach (var advice in Model.PetAdvices)
+        {
+            <partial name="_AdvicePartial" model="advice" />
+        }
     </ul>
 </div>
 

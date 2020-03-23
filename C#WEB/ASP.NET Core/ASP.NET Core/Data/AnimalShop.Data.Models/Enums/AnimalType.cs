@@ -9,5 +9,6 @@
         Hamster = 5,
         Chinchilla = 6,
         Rabbit = 7,
+        SmallPets = 8,
     }
 }

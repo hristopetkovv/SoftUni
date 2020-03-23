@@ -1,12 +1,11 @@
-﻿namespace AnimalShop.Data.Models
+﻿namespace AnimalShop.Web.ViewModels.PetAdvices
 {
-    using AnimalShop.Data.Common.Models;
+    using AnimalShop.Data.Models;
     using AnimalShop.Data.Models.Enums;
+    using AnimalShop.Services.Mapping;
 
-    public class PetAdvice : BaseModel<int>
+    public class PetAdviceViewModel : IMapFrom<PetAdvice>
     {
-        public int Id { get; set; }
-
         public string Description { get; set; }
 
         public string Title { get; set; }
