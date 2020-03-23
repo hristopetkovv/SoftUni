@@ -64,6 +64,7 @@
             services.AddTransient<ISettingsService, SettingsService>();
             services.AddTransient<IPetAdvicesService, PetAdvicesService>();
             services.AddTransient<IFoodService, FoodService>();
+            services.AddTransient<IToysService, ToysService>();
             services.AddTransient<IDogsService, DogsService>();
         }
 

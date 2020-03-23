@@ -2,7 +2,7 @@
 {
     using System.Collections.Generic;
 
-    public class FoodListeningViewModel
+    public class FoodListingViewModel
     {
         public int Count { get; set; }
 

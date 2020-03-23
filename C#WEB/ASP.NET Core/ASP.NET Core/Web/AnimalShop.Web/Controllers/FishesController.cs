@@ -18,7 +18,7 @@
         {
             AnimalType animalType = AnimalType.Fish;
 
-            var viewModel = new FoodListeningViewModel
+            var viewModel = new FoodListingViewModel
             {
                 Count = this.foodService.GetFoodCount(animalType),
                 Food = this.foodService.GetFood<FoodViewModel>(animalType),
