@@ -10,7 +10,6 @@ namespace AnimalShop.Data.Models
 
     public class Food : BaseDeletableModel<int>
     {
-
         [Required]
         public string Name { get; set; }
 

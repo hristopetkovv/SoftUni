@@ -1,7 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
-
-namespace AnimalShop.Data.Migrations
+﻿namespace AnimalShop.Data.Migrations
 {
+    using Microsoft.EntityFrameworkCore.Migrations;
+
     public partial class AddContactForm : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)

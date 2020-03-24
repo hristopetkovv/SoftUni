@@ -1,11 +1,13 @@
-﻿namespace AnimalShop.Web.ViewModels.Toys
+﻿namespace AnimalShop.Web.ViewModels.Products
 {
     using AnimalShop.Data.Models;
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Mapping;
 
-    public class ToysViewModel : IMapFrom<Product>
+    public class ProductViewModel : IMapFrom<Product>
     {
+        public int Id { get; set; }
+
         public string Name { get; set; }
 
         public string Description { get; set; }
@@ -15,7 +17,6 @@
         public int BrandId { get; set; }
 
         public Brand Brand { get; set; }
-
 
         public AnimalType AnimalType { get; set; }
 

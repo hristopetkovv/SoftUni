@@ -3,19 +3,19 @@
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Data;
     using AnimalShop.Web.ViewModels.Food;
-    using AnimalShop.Web.ViewModels.Toys;
+    using AnimalShop.Web.ViewModels.Products;
     using Microsoft.AspNetCore.Mvc;
 
     public class ChinchillasController : Controller
     {
         private readonly AnimalType animalType = AnimalType.Chinchilla;
         private readonly IFoodService foodService;
-        private readonly IToysService toysService;
+        private readonly IProductsService productsService;
 
-        public ChinchillasController(IFoodService foodService, IToysService toysService)
+        public ChinchillasController(IFoodService foodService, IProductsService productsService)
         {
             this.foodService = foodService;
-            this.toysService = toysService;
+            this.productsService = productsService;
         }
 
         public IActionResult Food()
@@ -33,10 +33,23 @@
         {
             ProductCategory category = ProductCategory.Toys;
 
-            var viewModel = new ToysListingViewModel
+            var viewModel = new ProductListingViewModel
             {
-                Count = this.toysService.GetToysCount(this.animalType, category),
-                Toys = this.toysService.GetToys<ToysViewModel>(this.animalType, category),
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
+            };
+
+            return this.View(viewModel);
+        }
+
+        public IActionResult House()
+        {
+            ProductCategory category = ProductCategory.Houses;
+
+            var viewModel = new ProductListingViewModel
+            {
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
             };
 
             return this.View(viewModel);

@@ -1,0 +1,55 @@
+﻿@model AnimalShop.Web.ViewModels.Products.ProductViewModel
+
+<div class="card">
+    <img src="@Model.Image" alt="Denim Jeans" style="width:100%">
+    <h1>@Model.Name</h1>
+    <p class="price">$@Model.Price</p>
+    <p>@Model.Description</p>
+        <div class="quantity" style="margin-bottom: 25px">
+            <b style="margin-right: 6px">Quantity</b>
+            <br />
+            <input style="margin-right: 6px" type="number" name="count_products" id="count_products" min="0" value="0" max="@Model.Stock" />
+        </div>
+    <p><button>Add to Cart</button></p>
+</div>
+
+<style>
+    .quantity {
+        text-align: right;
+    }
+
+    .date {
+        text-align: left;
+        margin-top: 15px;
+        margin-left: 6px;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 500px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+    }
+
+    .price {
+        color: grey;
+        font-size: 22px;
+    }
+
+    .card button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+        .card button:hover {
+            opacity: 0.7;
+        }
+</style>

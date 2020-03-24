@@ -5,7 +5,7 @@
         Toys = 1,
         Houses = 2,
         Cages = 3,
-        Bolws = 4,
+        Bowls = 4,
         Aquariums = 5,
         Bottles = 6,
         Accessories = 7,

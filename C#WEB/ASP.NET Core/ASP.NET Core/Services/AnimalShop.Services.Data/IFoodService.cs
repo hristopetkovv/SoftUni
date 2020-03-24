@@ -9,5 +9,7 @@
         IEnumerable<T> GetFood<T>(AnimalType animalType);
 
         int GetFoodCount(AnimalType animalType);
+
+        T GetById<T>(int id);
     }
 }

@@ -17,6 +17,17 @@
             this.foodRepository = foodRepository;
         }
 
+        public T GetById<T>(int id)
+        {
+            var food = this.foodRepository
+                .All()
+                .Where(x => x.Id == id)
+                .To<T>()
+                .FirstOrDefault();
+
+            return food;
+        }
+
         public IEnumerable<T> GetFood<T>(AnimalType animalType)
         {
             IQueryable<Food> food = this.foodRepository.All().Where(x => x.AnimalType == animalType);

@@ -8,16 +8,16 @@
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Mapping;
 
-    public class ToysService : IToysService
+    public class ProductsService : IProductsService
     {
         private readonly IDeletableEntityRepository<Product> productRepository;
 
-        public ToysService(IDeletableEntityRepository<Product> productRepository)
+        public ProductsService(IDeletableEntityRepository<Product> productRepository)
         {
             this.productRepository = productRepository;
         }
 
-        public int GetToysCount(AnimalType animalType, ProductCategory product)
+        public int GetProductsCount(AnimalType animalType, ProductCategory product)
         {
             var count = this.productRepository
                 .All()
@@ -27,13 +27,24 @@
             return count;
         }
 
-        public IEnumerable<T> GetToys<T>(AnimalType animalType, ProductCategory product)
+        public IEnumerable<T> GetProducts<T>(AnimalType animalType, ProductCategory product)
         {
             IQueryable<Product> toys = this.productRepository
                 .All()
                 .Where(x => x.AnimalType == animalType && x.Category == product);
 
             return toys.To<T>().ToList();
+        }
+
+        public T GetById<T>(int id)
+        {
+            var product = this.productRepository
+                .All()
+                .Where(x => x.Id == id)
+                .To<T>()
+                .FirstOrDefault();
+
+            return product;
         }
     }
 }

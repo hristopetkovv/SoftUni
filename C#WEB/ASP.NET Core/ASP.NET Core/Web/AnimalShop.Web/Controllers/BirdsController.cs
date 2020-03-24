@@ -3,19 +3,19 @@
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Data;
     using AnimalShop.Web.ViewModels.Food;
-    using AnimalShop.Web.ViewModels.Toys;
+    using AnimalShop.Web.ViewModels.Products;
     using Microsoft.AspNetCore.Mvc;
 
     public class BirdsController : Controller
     {
         private readonly AnimalType animalType = AnimalType.Birds;
         private readonly IFoodService foodService;
-        private readonly IToysService toysService;
+        private readonly IProductsService productsService;
 
-        public BirdsController(IFoodService foodService, IToysService toysService)
+        public BirdsController(IFoodService foodService, IProductsService productsService)
         {
             this.foodService = foodService;
-            this.toysService = toysService;
+            this.productsService = productsService;
         }
 
         public IActionResult Food()
@@ -33,10 +33,49 @@
         {
             ProductCategory category = ProductCategory.Toys;
 
-            var viewModel = new ToysListingViewModel
+            var viewModel = new ProductListingViewModel
             {
-                Count = this.toysService.GetToysCount(this.animalType, category),
-                Toys = this.toysService.GetToys<ToysViewModel>(this.animalType, category),
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
+            };
+
+            return this.View(viewModel);
+        }
+
+        public IActionResult Cage()
+        {
+            ProductCategory category = ProductCategory.Cages;
+
+            var viewModel = new ProductListingViewModel
+            {
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
+            };
+
+            return this.View(viewModel);
+        }
+
+        public IActionResult Bottle()
+        {
+            ProductCategory category = ProductCategory.Bottles;
+
+            var viewModel = new ProductListingViewModel
+            {
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
+            };
+
+            return this.View(viewModel);
+        }
+
+        public IActionResult Accessories()
+        {
+            ProductCategory category = ProductCategory.Accessories;
+
+            var viewModel = new ProductListingViewModel
+            {
+                Count = this.productsService.GetProductsCount(this.animalType, category),
+                Products = this.productsService.GetProducts<ProductViewModel>(this.animalType, category),
             };
 
             return this.View(viewModel);

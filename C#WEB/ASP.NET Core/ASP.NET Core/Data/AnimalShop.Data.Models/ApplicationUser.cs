@@ -23,6 +23,7 @@ namespace AnimalShop.Data.Models
         public string LastName { get; set; }
 
         public virtual ICollection<Order> Orders { get; set; }
+
         // Audit info
         public DateTime CreatedOn { get; set; }
 

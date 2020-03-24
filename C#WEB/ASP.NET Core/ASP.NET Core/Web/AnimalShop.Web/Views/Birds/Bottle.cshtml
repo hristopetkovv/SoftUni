@@ -1,7 +1,7 @@
 ﻿@model AnimalShop.Web.ViewModels.Products.ProductListingViewModel
 
 @{
-    this.ViewData["Title"] = "Dogs Toys";
+    this.ViewData["Title"] = "Birds Bottles";
 }
 
 <div>
@@ -11,8 +11,8 @@
 </div>
 
 <div class="row">
-    @foreach (var toy in Model.Products)
+    @foreach (var bottle in Model.Products)
     {
-        <partial name="../Shared/_ProductPartialView.cshtml" model="toy" />
+        <partial name="../Shared/_ProductPartialView.cshtml" model="bottle" />
     }
 </div>
