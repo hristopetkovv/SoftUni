@@ -117,21 +117,21 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Contacts" asp-action="Index">Contacts</a>
                         </li>
                         <li class="nav-item">
-                                <a href="/"><img src="https://media.gettyimages.com/vectors/shopping-cart-vector-vector-id477708382" align="right" alt="Shopping Cart " border="0" width="65" height="40" style="padding: 6px 0px 0px 0px" /></a>
+                            <a href="/Home/MyCart"><img src="https://media.gettyimages.com/vectors/shopping-cart-vector-vector-id477708382" align="right" alt="Shopping Cart " border="0" width="65" height="40" style="padding: 6px 0px 0px 0px" /></a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
-    
+
     <div class="container">
         <partial name="_CookieConsentPartial" />
         <main role="main" class="pb-3">
             @this.RenderBody()
         </main>
     </div>
-    
+
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; @DateTime.Now - <a asp-area="" asp-controller="Home" asp-action="Index">@GlobalConstants.SystemName</a> - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> -
@@ -140,6 +140,7 @@
         </div>
     </footer>
 
+    <link href="~/lib/fontawesome/css/all.css" rel="stylesheet" asp-append-version="true" />
     <environment names="Development">
         <script src="~/lib/jquery/dist/jquery.js" asp-append-version="true"></script>
         <script src="~/lib/jquery-validation/dist/jquery.validate.js" asp-append-version="true"></script>

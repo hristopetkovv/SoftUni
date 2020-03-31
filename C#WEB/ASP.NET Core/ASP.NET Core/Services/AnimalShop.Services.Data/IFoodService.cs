@@ -1,6 +1,7 @@
 ﻿namespace AnimalShop.Services.Data
 {
     using System.Collections.Generic;
+    using System.Threading.Tasks;
 
     using AnimalShop.Data.Models.Enums;
 
@@ -11,5 +12,7 @@
         int GetFoodCount(AnimalType animalType);
 
         T GetById<T>(int id);
+
+        Task SellFoodToUserAsync(int foodId, string userId);
     }
 }

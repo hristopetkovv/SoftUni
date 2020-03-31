@@ -1,17 +1,23 @@
 ﻿@model AnimalShop.Web.ViewModels.Products.ProductViewModel
 
-<div class="card">
-    <img src="@Model.Image" alt="Denim Jeans" style="width:100%">
-    <h1>@Model.Name</h1>
-    <p class="price">$@Model.Price</p>
-    <p>@Model.Description</p>
-        <div class="quantity" style="margin-bottom: 25px">
-            <b style="margin-right: 6px">Quantity</b>
-            <br />
-            <input style="margin-right: 6px" type="number" name="count_products" id="count_products" min="0" value="0" max="@Model.Stock" />
-        </div>
-    <p><button>Add to Cart</button></p>
-</div>
+    <div class="card">
+        <img src="@Model.Image" alt="Denim Jeans" style="width:100%">
+        <h1>@Model.Name</h1>
+        <p class="price">$@Model.Price</p>
+        <p>@Model.Description</p>
+        @if (this.Model.Stock == 0)
+        {
+            <div class="quantity" style="margin-bottom: 25px">
+                <b style="margin-right: 6px">Out of stock</b>
+            </div>
+            <p><a href="/Details/AddFoodOrder/@Model.Id" class="btn btn-primary btn-block disabled">Add to Cart</a></p>
+
+        }
+        else
+        {
+            <p><a href="/Details/AddFoodOrder?foodId=@Model.Id" class="btn btn-primary btn-block">Add to Cart</a></p>
+        }
+    </div>
 
 <style>
     .quantity {

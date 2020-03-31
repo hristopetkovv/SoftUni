@@ -1,12 +1,13 @@
 ﻿namespace AnimalShop.Web.Controllers
 {
+    using System.Threading.Tasks;
+
     using AnimalShop.Common;
     using AnimalShop.Data.Common.Repositories;
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Messaging;
     using AnimalShop.Web.ViewModels.Contacts;
     using Microsoft.AspNetCore.Mvc;
-    using System.Threading.Tasks;
 
     public class ContactsController : Controller
     {

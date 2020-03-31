@@ -1,8 +1,6 @@
 ﻿namespace AnimalShop.Services.Data
 {
-
-    public interface IDogsService
+    public interface IOrdersService
     {
-        
     }
 }

@@ -4,14 +4,16 @@ using AnimalShop.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AnimalShop.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200331120110_UpdateVotesTable")]
+    partial class UpdateVotesTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -464,6 +466,9 @@ namespace AnimalShop.Data.Migrations
                     b.Property<DateTime?>("ModifiedOn")
                         .HasColumnType("datetime2");
 
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
+
                     b.Property<int>("Type")
                         .HasColumnType("int");
 
@@ -474,6 +479,8 @@ namespace AnimalShop.Data.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("FoodId");
+
+                    b.HasIndex("ProductId");
 
                     b.HasIndex("UserId");
 
@@ -646,6 +653,10 @@ namespace AnimalShop.Data.Migrations
                         .HasForeignKey("FoodId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
+
+                    b.HasOne("AnimalShop.Data.Models.Product", null)
+                        .WithMany("Votes")
+                        .HasForeignKey("ProductId");
 
                     b.HasOne("AnimalShop.Data.Models.ApplicationUser", "User")
                         .WithMany()

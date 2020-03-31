@@ -14,10 +14,6 @@
 
         public decimal Price { get; set; }
 
-        public int BrandId { get; set; }
-
-        public Brand Brand { get; set; }
-
         public AnimalType AnimalType { get; set; }
 
         public ProductCategory Category { get; set; }
