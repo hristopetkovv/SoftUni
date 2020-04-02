@@ -1,11 +1,13 @@
 ﻿namespace AnimalShop.Web.Controllers
 {
+    using System.Collections.Generic;
     using System.Threading.Tasks;
 
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Data;
     using AnimalShop.Web.ViewModels.Food;
     using AnimalShop.Web.ViewModels.Products;
+    using AnimalShop.Web.ViewModels.ProductsInCart;
     using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
@@ -48,14 +50,21 @@
         }
 
         [Authorize]
-        public async Task<IActionResult> AddFoodOrder(int foodId)
+        public async Task<IActionResult> AddFoodToCart(int foodId)
         {
             var user = await this.userManager.GetUserAsync(this.User);
-            await this.foodService.SellFoodToUserAsync(foodId, user.Id);
 
-            return this.RedirectToAction("SuccessfulMessage");
+            // await this.foodService.SellFoodToUserAsync(foodId, user.Id);
+            var food = this.foodService.GetById<FoodCartViewModel>(foodId);
+            var viewModel = new FoodCartListinViewModel(food);
+
+            return this.View(viewModel);
         }
 
+        // Create Cart Table
+        // Take Food From Food Table
+        // Add Food to Cart Table
+        // Display All Food From Cart Table In /Home/MyCart
         public IActionResult SuccessfulMessage()
         {
             return this.View();

@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\AnimalShop.Data.Common\AnimalShop.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\AnimalShop.Data.Models\AnimalShop.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Web\AnimalShop.Web.ViewModels\AnimalShop.Web.ViewModels.csproj" />
     <ProjectReference Include="..\AnimalShop.Services.Mapping\AnimalShop.Services.Mapping.csproj" />
   </ItemGroup>
 

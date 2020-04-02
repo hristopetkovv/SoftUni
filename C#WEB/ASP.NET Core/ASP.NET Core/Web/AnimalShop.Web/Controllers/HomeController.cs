@@ -3,7 +3,6 @@
     using System.Diagnostics;
 
     using AnimalShop.Web.ViewModels;
-    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : BaseController
@@ -23,12 +22,6 @@
         {
             return this.View(
                 new ErrorViewModel { RequestId = Activity.Current?.Id ?? this.HttpContext.TraceIdentifier });
-        }
-
-        [Authorize]
-        public IActionResult MyCart()
-        {
-            return this.View();
         }
     }
 }

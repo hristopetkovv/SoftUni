@@ -2,6 +2,7 @@
 {
     using System;
     using System.Linq;
+
     using AnimalShop.Data.Models;
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Mapping;

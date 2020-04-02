@@ -8,6 +8,7 @@
     using AnimalShop.Data.Models;
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Mapping;
+    using AnimalShop.Web.ViewModels.ProductsInCart;
 
     public class FoodService : IFoodService
     {
