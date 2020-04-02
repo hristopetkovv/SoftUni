@@ -15,12 +15,31 @@
         private readonly IDeletableEntityRepository<Food> foodRepository;
         private readonly IDeletableEntityRepository<Order> orderRepository;
         private readonly IDeletableEntityRepository<FoodOrder> foodOrderRepository;
+        private readonly IDeletableEntityRepository<Cart> cartRepository;
 
-        public FoodService(IDeletableEntityRepository<Food> foodRepository, IDeletableEntityRepository<Order> orderRepository, IDeletableEntityRepository<FoodOrder> foodOrderRepository)
+        public FoodService(IDeletableEntityRepository<Food> foodRepository, IDeletableEntityRepository<Order> orderRepository, IDeletableEntityRepository<FoodOrder> foodOrderRepository, IDeletableEntityRepository<Cart> cartRepository)
         {
             this.foodRepository = foodRepository;
             this.orderRepository = orderRepository;
             this.foodOrderRepository = foodOrderRepository;
+            this.cartRepository = cartRepository;
+        }
+
+        public async Task AddToCartAsync(int foodId, string userId)
+        {
+            var food = this.GetById<FoodCartInputModel>(foodId);
+
+            var cartProduct = new Cart
+            {
+                UserId = userId,
+                Name = food.Name,
+                Image = food.Image,
+                Price = food.Price,
+                Weight = food.Weight,
+            };
+
+            await this.cartRepository.AddAsync(cartProduct);
+            await this.cartRepository.SaveChangesAsync();
         }
 
         public T GetById<T>(int id)

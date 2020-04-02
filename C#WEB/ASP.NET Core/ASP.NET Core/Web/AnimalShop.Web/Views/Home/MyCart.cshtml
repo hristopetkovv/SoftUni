@@ -1,1 +1,19 @@
-﻿<h3>My Cart</h3>
+﻿@model AnimalShop.Web.ViewModels.ProductsInCart.ProductCartListingViewModel
+
+@{
+    this.ViewData["Title"] = "My Cart";
+}
+
+<div>
+    <p>
+        <strong>@Model.Count product(s) in your cart.</strong>
+    </p>
+</div>
+
+<div class="row">
+    @foreach (var product in Model.Products)
+    {
+        <partial name="../Shared/_CartPartialView.cshtml" model="product" />
+    }
+</div>
+

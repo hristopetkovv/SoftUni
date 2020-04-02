@@ -1,0 +1,20 @@
+﻿@model AnimalShop.Web.ViewModels.ProductsInCart.ProductCartViewModel
+
+<div class="col-md-4 media" style="background-color: snow">
+        <img src="@Model.Image" width="100" class="mr-3" />
+        <div class="media-body">
+            <h4>@Model.Name</h4>
+            <p class="text-dark">
+                @if (Model.Weight != null)
+                {
+                    var weight = Model.Weight + "kg";
+                    @weight <strong>$@Model.Price</strong>
+                }
+                else
+                {
+                    <strong>$@Model.Price</strong>
+                }
+            </p>
+        </div>
+    </a>
+</div>

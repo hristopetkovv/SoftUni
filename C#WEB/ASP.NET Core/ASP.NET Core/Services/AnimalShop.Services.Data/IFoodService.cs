@@ -14,5 +14,7 @@
         T GetById<T>(int id);
 
         Task SellFoodToUserAsync(int foodId, string userId);
+
+        Task AddToCartAsync(int foodId, string userId);
     }
 }

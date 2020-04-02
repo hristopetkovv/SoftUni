@@ -2,7 +2,7 @@
 {
     using System.Collections.Generic;
     using System.Threading.Tasks;
-
+    using AnimalShop.Data.Common.Repositories;
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Data;
     using AnimalShop.Web.ViewModels.Food;
@@ -54,17 +54,12 @@
         {
             var user = await this.userManager.GetUserAsync(this.User);
 
-            // await this.foodService.SellFoodToUserAsync(foodId, user.Id);
-            var food = this.foodService.GetById<FoodCartViewModel>(foodId);
-            var viewModel = new FoodCartListinViewModel(food);
+            await this.foodService.AddToCartAsync(foodId, user.Id);
 
-            return this.View(viewModel);
+            // await this.foodService.SellFoodToUserAsync(foodId, user.Id);
+            return this.RedirectToAction("SuccessfulMessage");
         }
 
-        // Create Cart Table
-        // Take Food From Food Table
-        // Add Food to Cart Table
-        // Display All Food From Cart Table In /Home/MyCart
         public IActionResult SuccessfulMessage()
         {
             return this.View();

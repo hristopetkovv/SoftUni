@@ -4,6 +4,8 @@
 
     public class ProductCartListingViewModel
     {
+        public int Count { get; set; }
+
         public IEnumerable<ProductCartViewModel> Products { get; set; }
     }
 }

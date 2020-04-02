@@ -3,7 +3,7 @@
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Mapping;
 
-    public class FoodCartViewModel : IMapFrom<Food>
+    public class FoodCartInputModel : IMapFrom<Food>
     {
         public string Name { get; set; }
 
