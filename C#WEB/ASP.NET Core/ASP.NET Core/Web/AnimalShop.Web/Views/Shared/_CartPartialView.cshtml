@@ -1,6 +1,6 @@
 ﻿@model AnimalShop.Web.ViewModels.ProductsInCart.ProductCartViewModel
 
-<div class="col-md-4 media" style="background-color: snow">
+<div class="col-md-4 media" style="background-color: snow; margin-bottom: 10px">
         <img src="@Model.Image" width="100" class="mr-3" />
         <div class="media-body">
             <h4>@Model.Name</h4>
@@ -14,7 +14,8 @@
                 {
                     <strong>$@Model.Price</strong>
                 }
+
+            <a style="float: right" class="btn btn-outline-danger btn-sm" href="/Home/RemoveProduct?productId=@Model.Id" role="button">Remove</a>
             </p>
         </div>
-    </a>
 </div>

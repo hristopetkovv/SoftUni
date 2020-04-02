@@ -2,10 +2,12 @@
 {
     using System.Diagnostics;
     using System.Threading.Tasks;
+
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Data;
     using AnimalShop.Web.ViewModels;
     using AnimalShop.Web.ViewModels.ProductsInCart;
+    using Microsoft.AspNetCore.Authorization;
     using Microsoft.AspNetCore.Identity;
     using Microsoft.AspNetCore.Mvc;
 
@@ -37,17 +39,27 @@
                 new ErrorViewModel { RequestId = Activity.Current?.Id ?? this.HttpContext.TraceIdentifier });
         }
 
+        [Authorize]
         public async Task<ActionResult> MyCart()
         {
             var user = await this.userManager.GetUserAsync(this.User);
 
             var viewModel = new ProductCartListingViewModel
             {
+                SumOfProducts = this.usersService.SumProductsPrice(user.Id),
                 Count = this.usersService.GetProductsCount(user.Id),
                 Products = this.usersService.GetProducts<ProductCartViewModel>(user.Id),
             };
 
             return this.View(viewModel);
+        }
+
+        [Authorize]
+        public IActionResult RemoveProduct(int productId)
+        {
+            this.usersService.RemoveProduct(productId);
+
+            return this.RedirectToAction("MyCart");
         }
     }
 }
