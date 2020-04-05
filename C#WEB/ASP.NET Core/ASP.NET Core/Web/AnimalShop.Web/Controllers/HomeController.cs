@@ -55,8 +55,6 @@
 
             var orderId = this.ordersService.CreateOrderAsync(user.Id);
 
-            var a = 5;
-
             return this.View(viewModel);
         }
 
