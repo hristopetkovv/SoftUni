@@ -48,16 +48,20 @@
         public class InputModel
         {
             [Required]
-            [MaxLength(15)]
+            [MaxLength(20)]
             public string UserName { get; set; }
 
             [Required]
-            [MaxLength(15)]
+            [MaxLength(20)]
             public string FirstName { get; set; }
 
             [Required]
-            [MaxLength(15)]
+            [MaxLength(20)]
             public string LastName { get; set; }
+
+            [Required]
+            [MaxLength(100)]
+            public string Address { get; set; }
 
             [Required]
             [MaxLength(15)]
@@ -93,7 +97,7 @@
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = Input.UserName, Email = Input.Email };
+                var user = new ApplicationUser { UserName = Input.UserName, Email = Input.Email, Address = Input.Address, FirstName = Input.FirstName, LastName = Input.LastName, PhoneNumber = Input.PhoneNumber };
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)
                 {

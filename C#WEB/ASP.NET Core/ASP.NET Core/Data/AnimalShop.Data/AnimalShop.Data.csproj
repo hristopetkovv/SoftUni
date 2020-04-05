@@ -11,6 +11,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20200405081803_addAddressToUser.cs" />
+    <Compile Remove="Migrations\20200405081803_addAddressToUser.Designer.cs" />
+    <Compile Remove="Migrations\20200405082518_changeNameMaxLength.cs" />
+    <Compile Remove="Migrations\20200405082518_changeNameMaxLength.Designer.cs" />
+    <Compile Remove="Migrations\20200405082733_..cs" />
+    <Compile Remove="Migrations\20200405082733_..Designer.cs" />
+    <Compile Remove="Migrations\20200405083146_addAddressToUser.cs" />
+    <Compile Remove="Migrations\20200405083146_addAddressToUser.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <AdditionalFiles Include="..\..\stylecop.json" />
   </ItemGroup>
 

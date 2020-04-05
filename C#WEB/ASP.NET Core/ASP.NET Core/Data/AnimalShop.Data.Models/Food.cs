@@ -8,15 +8,20 @@ namespace AnimalShop.Data.Models
     using AnimalShop.Data.Common.Models;
     using AnimalShop.Data.Models.Enums;
 
+    using static DataValidations.DataValidation;
+
     public class Food : BaseDeletableModel<int>
     {
         [Required]
+        [MaxLength(NameMaxLength)]
         public string Name { get; set; }
 
         [Required]
+        [Range(0.0, 1000000000000)]
         public double Weight { get; set; }
 
         [Required]
+        [Range(0.0, 1000000000000)]
         public decimal Price { get; set; }
 
         [Required]
@@ -26,12 +31,17 @@ namespace AnimalShop.Data.Models
 
         public Brand Brand { get; set; }
 
+        [Required]
+        [Range(0, 1000000000000)]
         public int Stock { get; set; }
 
         public AnimalType AnimalType { get; set; }
 
+        [Required]
+        [MaxLength(DescriptionMaxLength)]
         public string Description { get; set; }
 
+        [Required]
         public string Image { get; set; }
 
         public virtual ICollection<FoodOrder> Orders { get; set; } = new HashSet<FoodOrder>();

@@ -2,6 +2,7 @@
 namespace AnimalShop.Data.Models
 {
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
 
     using AnimalShop.Data.Common.Models;
     using AnimalShop.Data.Models.Enums;
@@ -10,6 +11,7 @@ namespace AnimalShop.Data.Models
     {
         public OrderStatus Status { get; set; }
 
+        [Required]
         public string UserId { get; set; }
 
         public ApplicationUser User { get; set; }

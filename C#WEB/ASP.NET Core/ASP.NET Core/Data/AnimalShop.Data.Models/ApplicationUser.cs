@@ -3,9 +3,12 @@ namespace AnimalShop.Data.Models
 {
     using System;
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
 
     using AnimalShop.Data.Common.Models;
     using Microsoft.AspNetCore.Identity;
+
+    using static DataValidations.DataValidation.User;
 
     public class ApplicationUser : IdentityUser, IAuditInfo, IDeletableEntity
     {
@@ -18,9 +21,17 @@ namespace AnimalShop.Data.Models
             this.Orders = new HashSet<Order>();
         }
 
+        [Required]
+        [MaxLength(FirstNameMaxLength)]
         public string FirstName { get; set; }
 
+        [Required]
+        [MaxLength(LastNameMaxLength)]
         public string LastName { get; set; }
+
+        [Required]
+        [MaxLength(AddressMaxLength)]
+        public string Address { get; set; }
 
         public virtual ICollection<Order> Orders { get; set; }
 
