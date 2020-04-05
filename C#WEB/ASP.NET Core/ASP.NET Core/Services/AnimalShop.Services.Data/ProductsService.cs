@@ -53,14 +53,20 @@
 
         public async Task AddToCartAsync(int productId, string userId)
         {
-            var product = this.GetById<ProductCartInputModel>(productId);
+            var product = this.productRepository
+                .All()
+                .FirstOrDefault(x => x.Id == productId);
+
+            product.Stock--;
+
+            var productToCart = this.GetById<ProductCartInputModel>(productId);
 
             var cartProduct = new Cart
             {
                 UserId = userId,
-                Name = product.Name,
-                Image = product.Image,
-                Price = product.Price,
+                Name = productToCart.Name,
+                Image = productToCart.Image,
+                Price = productToCart.Price,
             };
 
             await this.cartRepository.AddAsync(cartProduct);

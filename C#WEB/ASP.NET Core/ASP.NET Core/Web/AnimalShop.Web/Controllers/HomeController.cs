@@ -15,11 +15,13 @@
     {
         private readonly IUsersService usersService;
         private readonly UserManager<ApplicationUser> userManager;
+        private readonly IOrdersService ordersService;
 
-        public HomeController(IUsersService usersService, UserManager<ApplicationUser> userManager)
+        public HomeController(IUsersService usersService, UserManager<ApplicationUser> userManager, IOrdersService ordersService)
         {
             this.usersService = usersService;
             this.userManager = userManager;
+            this.ordersService = ordersService;
         }
 
         public IActionResult Index()
@@ -51,6 +53,10 @@
                 Products = this.usersService.GetProducts<ProductCartViewModel>(user.Id),
             };
 
+            var orderId = this.ordersService.CreateOrderAsync(user.Id);
+
+            var a = 5;
+
             return this.View(viewModel);
         }
 
@@ -60,6 +66,12 @@
             await this.usersService.RemoveProduct(productId);
 
             return this.RedirectToAction("MyCart");
+        }
+
+        [Authorize]
+        public IActionResult CompletedOrder()
+        {
+            return this.View();
         }
     }
 }

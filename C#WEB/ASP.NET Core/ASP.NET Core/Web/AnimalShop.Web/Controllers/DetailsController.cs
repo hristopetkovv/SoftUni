@@ -56,7 +56,6 @@
 
             await this.foodService.AddToCartAsync(foodId, user.Id);
 
-            // await this.foodService.SellFoodToUserAsync(foodId, user.Id);
             return this.RedirectToAction("SuccessfulMessage");
         }
 

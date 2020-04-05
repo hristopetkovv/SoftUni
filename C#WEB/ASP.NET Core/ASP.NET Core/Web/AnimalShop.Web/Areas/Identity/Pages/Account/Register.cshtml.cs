@@ -64,6 +64,14 @@
             public string Address { get; set; }
 
             [Required]
+            [MaxLength(25)]
+            public string Country { get; set; }
+
+            [Required]
+            [MaxLength(25)]
+            public string City { get; set; }
+
+            [Required]
             [MaxLength(15)]
             [RegularExpression("^[0-9]*$", ErrorMessage = "PhoneNumber must be numeric")]
             public string PhoneNumber { get; set; }
@@ -97,7 +105,7 @@
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = Input.UserName, Email = Input.Email, Address = Input.Address, FirstName = Input.FirstName, LastName = Input.LastName, PhoneNumber = Input.PhoneNumber };
+                var user = new ApplicationUser { UserName = Input.UserName, Email = Input.Email, Address = Input.Address, FirstName = Input.FirstName, LastName = Input.LastName, PhoneNumber = Input.PhoneNumber, City = Input.City, Country = Input.Country };
                 var result = await _userManager.CreateAsync(user, Input.Password);
                 if (result.Succeeded)
                 {

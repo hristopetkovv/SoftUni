@@ -33,6 +33,14 @@ namespace AnimalShop.Data.Models
         [MaxLength(AddressMaxLength)]
         public string Address { get; set; }
 
+        [Required]
+        [MaxLength(25)]
+        public string Country { get; set; }
+
+        [Required]
+        [MaxLength(25)]
+        public string City { get; set; }
+
         public virtual ICollection<Order> Orders { get; set; }
 
         // Audit info

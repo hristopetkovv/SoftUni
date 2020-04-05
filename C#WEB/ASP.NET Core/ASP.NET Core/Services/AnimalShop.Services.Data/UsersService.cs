@@ -7,15 +7,18 @@
     using AnimalShop.Data.Common.Repositories;
     using AnimalShop.Data.Models;
     using AnimalShop.Services.Mapping;
-    using Microsoft.EntityFrameworkCore;
 
     public class UsersService : IUsersService
     {
         private readonly IDeletableEntityRepository<Cart> cartRepository;
+        private readonly IDeletableEntityRepository<Food> foodRepository;
+        private readonly IDeletableEntityRepository<Product> productRepository;
 
-        public UsersService(IDeletableEntityRepository<Cart> cartRepository)
+        public UsersService(IDeletableEntityRepository<Cart> cartRepository, IDeletableEntityRepository<Food> foodRepository, IDeletableEntityRepository<Product> productRepository)
         {
             this.cartRepository = cartRepository;
+            this.foodRepository = foodRepository;
+            this.productRepository = productRepository;
         }
 
         public IEnumerable<T> GetProducts<T>(string userId)
@@ -39,11 +42,24 @@
 
         public async Task RemoveProduct(int productId)
         {
-            var product = this.cartRepository
+            var productToRemove = this.cartRepository
                 .All()
                 .FirstOrDefault(x => x.Id == productId);
 
-            this.cartRepository.HardDelete(product);
+            if (productToRemove.Weight != null)
+            {
+                var food = this.foodRepository.All().FirstOrDefault(x => x.Name == productToRemove.Name);
+                food.Stock++;
+            }
+            else
+            {
+                var product = this.productRepository.All().FirstOrDefault(x => x.Name == productToRemove.Name);
+                product.Stock++;
+            }
+
+            this.cartRepository.HardDelete(productToRemove);
+            await this.foodRepository.SaveChangesAsync();
+            await this.productRepository.SaveChangesAsync();
             await this.cartRepository.SaveChangesAsync();
         }
 

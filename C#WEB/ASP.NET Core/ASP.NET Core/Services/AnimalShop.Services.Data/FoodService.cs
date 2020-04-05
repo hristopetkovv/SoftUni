@@ -13,29 +13,33 @@
     public class FoodService : IFoodService
     {
         private readonly IDeletableEntityRepository<Food> foodRepository;
-        private readonly IDeletableEntityRepository<Order> orderRepository;
         private readonly IDeletableEntityRepository<FoodOrder> foodOrderRepository;
         private readonly IDeletableEntityRepository<Cart> cartRepository;
 
-        public FoodService(IDeletableEntityRepository<Food> foodRepository, IDeletableEntityRepository<Order> orderRepository, IDeletableEntityRepository<FoodOrder> foodOrderRepository, IDeletableEntityRepository<Cart> cartRepository)
+        public FoodService(IDeletableEntityRepository<Food> foodRepository, IDeletableEntityRepository<FoodOrder> foodOrderRepository, IDeletableEntityRepository<Cart> cartRepository)
         {
             this.foodRepository = foodRepository;
-            this.orderRepository = orderRepository;
             this.foodOrderRepository = foodOrderRepository;
             this.cartRepository = cartRepository;
         }
 
         public async Task AddToCartAsync(int foodId, string userId)
         {
-            var food = this.GetById<FoodCartInputModel>(foodId);
+            var food = this.foodRepository
+                .All()
+                .FirstOrDefault(x => x.Id == foodId);
+
+            food.Stock--;
+
+            var foodToCart = this.GetById<FoodCartInputModel>(foodId);
 
             var cartProduct = new Cart
             {
                 UserId = userId,
-                Name = food.Name,
-                Image = food.Image,
-                Price = food.Price,
-                Weight = food.Weight,
+                Name = foodToCart.Name,
+                Image = foodToCart.Image,
+                Price = foodToCart.Price,
+                Weight = foodToCart.Weight,
             };
 
             await this.cartRepository.AddAsync(cartProduct);
@@ -65,33 +69,6 @@
             var count = this.foodRepository.All().Where(x => x.AnimalType == animalType).Count();
 
             return count;
-        }
-
-        public async Task SellFoodToUserAsync(int foodId, string userId)
-        {
-            var food = this.foodRepository
-                .All()
-                .FirstOrDefault(x => x.Id == foodId);
-
-            food.Stock--;
-
-            var order = new Order()
-            {
-                Status = OrderStatus.Proccessed,
-                UserId = userId,
-            };
-
-            var foodOrder = new FoodOrder()
-            {
-                FoodId = foodId,
-                Order = order,
-            };
-
-            await this.orderRepository.AddAsync(order);
-            await this.foodOrderRepository.AddAsync(foodOrder);
-
-            await this.orderRepository.SaveChangesAsync();
-            await this.foodOrderRepository.SaveChangesAsync();
         }
     }
 }
