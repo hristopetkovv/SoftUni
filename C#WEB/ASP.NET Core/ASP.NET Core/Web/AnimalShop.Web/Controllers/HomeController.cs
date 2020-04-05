@@ -55,9 +55,9 @@
         }
 
         [Authorize]
-        public IActionResult RemoveProduct(int productId)
+        public async Task<IActionResult> RemoveProduct(int productId)
         {
-            this.usersService.RemoveProduct(productId);
+            await this.usersService.RemoveProduct(productId);
 
             return this.RedirectToAction("MyCart");
         }
