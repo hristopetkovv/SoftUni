@@ -60,6 +60,16 @@
             return this.RedirectToAction("SuccessfulMessage");
         }
 
+        [Authorize]
+        public async Task<IActionResult> AddProductToCart(int productId)
+        {
+            var user = await this.userManager.GetUserAsync(this.User);
+
+            await this.productsService.AddToCartAsync(productId, user.Id);
+
+            return this.RedirectToAction("SuccessfulMessage");
+        }
+
         public IActionResult SuccessfulMessage()
         {
             return this.View();

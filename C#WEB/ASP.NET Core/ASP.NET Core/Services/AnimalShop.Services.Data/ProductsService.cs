@@ -2,19 +2,23 @@
 {
     using System.Collections.Generic;
     using System.Linq;
+    using System.Threading.Tasks;
 
     using AnimalShop.Data.Common.Repositories;
     using AnimalShop.Data.Models;
     using AnimalShop.Data.Models.Enums;
     using AnimalShop.Services.Mapping;
+    using AnimalShop.Web.ViewModels.ProductsInCart;
 
     public class ProductsService : IProductsService
     {
         private readonly IDeletableEntityRepository<Product> productRepository;
+        private readonly IDeletableEntityRepository<Cart> cartRepository;
 
-        public ProductsService(IDeletableEntityRepository<Product> productRepository)
+        public ProductsService(IDeletableEntityRepository<Product> productRepository, IDeletableEntityRepository<Cart> cartRepository)
         {
             this.productRepository = productRepository;
+            this.cartRepository = cartRepository;
         }
 
         public int GetProductsCount(AnimalType animalType, ProductCategory product)
@@ -45,6 +49,22 @@
                 .FirstOrDefault();
 
             return product;
+        }
+
+        public async Task AddToCartAsync(int productId, string userId)
+        {
+            var product = this.GetById<ProductCartInputModel>(productId);
+
+            var cartProduct = new Cart
+            {
+                UserId = userId,
+                Name = product.Name,
+                Image = product.Image,
+                Price = product.Price,
+            };
+
+            await this.cartRepository.AddAsync(cartProduct);
+            await this.cartRepository.SaveChangesAsync();
         }
     }
 }
