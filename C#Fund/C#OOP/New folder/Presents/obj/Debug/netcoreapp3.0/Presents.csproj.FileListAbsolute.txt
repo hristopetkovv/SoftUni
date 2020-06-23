@@ -1,0 +1,11 @@
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+E:\Documents\New folder\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+E:\Documents\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+E:\Documents\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+E:\Documents\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+E:\Documents\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+E:\Documents\New folder\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
