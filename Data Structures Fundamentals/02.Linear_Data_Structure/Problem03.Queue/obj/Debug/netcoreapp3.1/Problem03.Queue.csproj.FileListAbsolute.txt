@@ -1,0 +1,8 @@
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.deps.json
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\bin\Debug\netcoreapp3.1\Problem03.Queue.pdb
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.csprojAssemblyReference.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.AssemblyInfo.cs
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem03.Queue\obj\Debug\netcoreapp3.1\Problem03.Queue.pdb

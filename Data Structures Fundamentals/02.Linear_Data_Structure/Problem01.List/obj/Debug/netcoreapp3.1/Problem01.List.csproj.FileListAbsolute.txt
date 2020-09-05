@@ -1,0 +1,8 @@
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csprojAssemblyReference.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb

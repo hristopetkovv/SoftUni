@@ -1,0 +1,8 @@
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.deps.json
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\bin\Debug\netcoreapp3.1\Problem02.Stack.pdb
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.csprojAssemblyReference.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfoInputs.cache
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.AssemblyInfo.cs
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.dll
+E:\Documents\Softuni\Data Structures Fundamentals\02.Linear_Data_Structure\Problem02.Stack\obj\Debug\netcoreapp3.1\Problem02.Stack.pdb
