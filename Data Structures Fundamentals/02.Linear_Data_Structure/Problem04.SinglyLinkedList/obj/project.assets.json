@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
       "projectName": "Problem04.SinglyLinkedList",
-      "projectPath": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+      "projectPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
       "packagesPath": "C:\\Users\\i4kowe\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\obj\\",
+      "outputPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem04.SinglyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

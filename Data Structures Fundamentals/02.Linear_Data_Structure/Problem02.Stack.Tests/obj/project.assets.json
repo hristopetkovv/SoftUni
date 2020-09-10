@@ -4599,11 +4599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
       "projectName": "Problem02.Stack.Tests",
-      "projectPath": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
+      "projectPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\Problem02.Stack.Tests.csproj",
       "packagesPath": "C:\\Users\\i4kowe\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\obj\\",
+      "outputPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4622,8 +4622,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack\\Problem02.Stack.csproj": {
-              "projectPath": "E:\\Documents\\Softuni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack\\Problem02.Stack.csproj"
+            "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack\\Problem02.Stack.csproj": {
+              "projectPath": "C:\\Users\\i4kowe\\Documents\\GitHub\\SoftUni\\Data Structures Fundamentals\\02.Linear_Data_Structure\\Problem02.Stack\\Problem02.Stack.csproj"
             }
           }
         }
