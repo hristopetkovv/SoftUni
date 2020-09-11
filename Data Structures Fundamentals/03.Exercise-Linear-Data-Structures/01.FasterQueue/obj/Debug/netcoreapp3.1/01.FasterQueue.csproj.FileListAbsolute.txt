@@ -1,0 +1,8 @@
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.deps.json
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\bin\Debug\netcoreapp3.1\01.FasterQueue.pdb
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.csprojAssemblyReference.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.AssemblyInfo.cs
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\01.FasterQueue\obj\Debug\netcoreapp3.1\01.FasterQueue.pdb
