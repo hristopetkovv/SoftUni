@@ -1,0 +1,8 @@
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.deps.json
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\bin\Debug\netcoreapp3.1\03.ReversedList.pdb
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.csprojAssemblyReference.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfoInputs.cache
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.AssemblyInfo.cs
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.dll
+C:\Users\i4kowe\Documents\GitHub\SoftUni\Data Structures Fundamentals\03.Exercise-Linear-Data-Structures\03.ReversedList\obj\Debug\netcoreapp3.1\03.ReversedList.pdb
