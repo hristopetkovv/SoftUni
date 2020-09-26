@@ -1,0 +1,11 @@
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.exe
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.deps.json
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.runtimeconfig.json
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.runtimeconfig.dev.json
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.dll
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\bin\Debug\netcoreapp3.1\Simple Array Sum.pdb
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.csprojAssemblyReference.cache
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.AssemblyInfoInputs.cache
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.AssemblyInfo.cs
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.dll
+E:\Documents\GitHub\SoftUni\Algorithms\Simple Array Sum\Simple Array Sum\obj\Debug\netcoreapp3.1\Simple Array Sum.pdb
