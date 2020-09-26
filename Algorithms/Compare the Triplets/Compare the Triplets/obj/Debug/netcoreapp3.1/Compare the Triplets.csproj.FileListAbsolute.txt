@@ -1,0 +1,11 @@
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.exe
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.deps.json
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.json
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.dev.json
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.dll
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.pdb
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.csprojAssemblyReference.cache
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfoInputs.cache
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfo.cs
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.dll
+E:\Documents\GitHub\SoftUni\Algorithms\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.pdb
