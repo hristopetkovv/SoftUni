@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Plus Minus/1.0.0": {
+        "runtime": {
+          "Plus Minus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plus Minus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
