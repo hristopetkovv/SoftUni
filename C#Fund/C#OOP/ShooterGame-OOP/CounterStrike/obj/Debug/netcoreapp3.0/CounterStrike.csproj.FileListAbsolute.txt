@@ -1,0 +1,11 @@
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\ShooterGame-OOP\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
