@@ -94,7 +94,7 @@ namespace OnlineShop.Models.Products
 
         public override string ToString()
         {
-            return $"Overall Performance: {this.overallPerformance}. Price: {this.price} - {this.GetType().Name}: {this.manufacturer} {this.model} (Id: {this.id})";
+            return $"Overall Performance: {this.overallPerformance:f2}. Price: {this.price} - {this.GetType().Name}: {this.manufacturer} {this.model} (Id: {this.id})";
         }
     }
 }

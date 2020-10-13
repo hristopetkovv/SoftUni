@@ -100,7 +100,7 @@ namespace OnlineShop.Models.Products.Computers
             {
                 sb.AppendLine($"  {component.GetType().Name}");
             }
-            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({this.peripherals.Average(x => x.OverallPerformance)}):");
+            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({Math.Round(this.peripherals.Average(x => x.OverallPerformance),2)}):");
 
             foreach (var peripheral in this.peripherals)
             {
