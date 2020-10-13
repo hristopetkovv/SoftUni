@@ -4,9 +4,9 @@ using System.Text;
 
 namespace OnlineShop.Models.Products.Peripherals
 {
-    public class HeadSet : Peripheral
+    public class Headset : Peripheral
     {
-        public HeadSet(int id, string manufacturer, string model, decimal price, double overallPerformance, string connectionType) 
+        public Headset(int id, string manufacturer, string model, decimal price, double overallPerformance, string connectionType) 
             : base(id, manufacturer, model, price, overallPerformance, connectionType)
         {
         }

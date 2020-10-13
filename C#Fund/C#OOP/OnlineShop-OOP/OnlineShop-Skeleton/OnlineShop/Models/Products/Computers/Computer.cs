@@ -13,9 +13,11 @@ namespace OnlineShop.Models.Products.Computers
         private readonly List<IComponent> components;
         private readonly List<IPeripheral> peripherals;
 
-        public Computer(int id, string manufacturer, string model, decimal price, double overallPerformance) 
+        protected Computer(int id, string manufacturer, string model, decimal price, double overallPerformance) 
             : base(id, manufacturer, model, price, overallPerformance)
         {
+            this.components = new List<IComponent>();
+            this.peripherals = new List<IPeripheral>();
         }
 
         public IReadOnlyCollection<IComponent> Components

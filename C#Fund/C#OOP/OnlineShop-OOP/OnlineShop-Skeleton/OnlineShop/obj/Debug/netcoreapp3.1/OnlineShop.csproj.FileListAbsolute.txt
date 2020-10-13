@@ -4,7 +4,6 @@ E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\Onli
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
-E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csprojAssemblyReference.cache
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\OnlineShop-OOP\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
