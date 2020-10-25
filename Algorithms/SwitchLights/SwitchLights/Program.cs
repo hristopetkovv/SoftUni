@@ -4,13 +4,13 @@ namespace SwitchLights
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            int[] arr = new int[] { 0, 1, 1, 0};
-            SwitchLights(arr);
-        }
+        //static void Main(string[] args)
+        //{
+        //    int[] arr = new int[] { 0, 1, 1, 0};
+        //    SwitchLights(arr);
+        //}
 
-        public static int[] SwitchLights(int[] a)
+        int[] SwitchLights(int[] a)
         {
             for (int i = 0; i < a.Length; i++)
             {
