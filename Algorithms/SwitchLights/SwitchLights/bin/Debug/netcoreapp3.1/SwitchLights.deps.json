@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SwitchLights/1.0.0": {
+        "runtime": {
+          "SwitchLights.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwitchLights/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

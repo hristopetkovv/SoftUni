@@ -98,17 +98,16 @@ namespace OnlineShop.Models.Products.Computers
 
             foreach (var component in this.components)
             {
-                sb.AppendLine($"  {component.GetType().Name}");
+                sb.AppendLine(component.ToString());
             }
-            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({Math.Round(this.peripherals.Average(x => x.OverallPerformance),2)}):");
+            sb.AppendLine($" Peripherals ({this.peripherals.Count}); Average Overall Performance ({this.peripherals.Average(x => x.OverallPerformance):f2}):");
 
             foreach (var peripheral in this.peripherals)
             {
-                sb.AppendLine($"  {peripheral.GetType().Name}");
-
+                sb.AppendLine(peripheral.ToString());
             }
 
-            return base.ToString() + sb.ToString().TrimEnd();
+            return base.ToString() + this.OverallPerformance + this.Price + Environment.NewLine + sb.ToString().TrimEnd();
         }
     }
 }

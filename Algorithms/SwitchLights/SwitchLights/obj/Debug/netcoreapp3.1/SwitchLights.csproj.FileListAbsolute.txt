@@ -1,0 +1,11 @@
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.exe
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.deps.json
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.runtimeconfig.json
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.runtimeconfig.dev.json
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.dll
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\bin\Debug\netcoreapp3.1\SwitchLights.pdb
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\obj\Debug\netcoreapp3.1\SwitchLights.csprojAssemblyReference.cache
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\obj\Debug\netcoreapp3.1\SwitchLights.AssemblyInfoInputs.cache
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\obj\Debug\netcoreapp3.1\SwitchLights.AssemblyInfo.cs
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\obj\Debug\netcoreapp3.1\SwitchLights.dll
+E:\Documents\GitHub\SoftUni\Algorithms\SwitchLights\SwitchLights\obj\Debug\netcoreapp3.1\SwitchLights.pdb
