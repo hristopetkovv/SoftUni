@@ -8,3 +8,4 @@ E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\Market Store\Market Store\obj\Debug\net
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\Market Store\Market Store\obj\Debug\netcoreapp3.1\Market Store.AssemblyInfo.cs
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\Market Store\Market Store\obj\Debug\netcoreapp3.1\Market Store.dll
 E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\Market Store\Market Store\obj\Debug\netcoreapp3.1\Market Store.pdb
+E:\Documents\GitHub\SoftUni\C#Fund\C#OOP\Market Store\Market Store\obj\Debug\netcoreapp3.1\Market Store.csprojAssemblyReference.cache

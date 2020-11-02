@@ -6,10 +6,11 @@ namespace Market_Store
     {
         static void Main(string[] args)
         {
-            /* When debugging, discount rate is printed, 
-             * but when start the app without debugging, discount rate is 0.0%.  */
-            Bronze bronzeCard = new Bronze(600, 850);
-            Console.WriteLine(bronzeCard.ToString());
+            Circle t = new Circle();
+
+            t.Width = 5;
+            t.Height = 6;
+            Console.WriteLine(t.CalculateSurface());
         }
     }
 }
