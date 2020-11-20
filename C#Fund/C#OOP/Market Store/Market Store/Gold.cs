@@ -13,7 +13,7 @@ namespace Market_Store
         {
             if (base.Turnover > 100)
             {
-                base.DiscountRate = Math.Round(base.Turnover / 100);
+                base.DiscountRate = Math.Floor(base.Turnover / 100);
             }
             else
             {

@@ -6,11 +6,6 @@ namespace Market_Store
     {
         static void Main(string[] args)
         {
-            Circle t = new Circle();
-
-            t.Width = 5;
-            t.Height = 6;
-            Console.WriteLine(t.CalculateSurface());
         }
     }
 }
